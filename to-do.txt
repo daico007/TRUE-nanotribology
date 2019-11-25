@@ -1,0 +1,15 @@
+- requirements
+    - Need to pin down specific version of mbuild
+    - Make ctools public
+- Single run
+    - Add Code
+    - Clean up unneccesary files under src
+- Batch
+    - Make a point about submitting job vs exec the job locally 
+        - Submitting to cluster means the code will need some modification to adapt with the corresponding environment
+        - Include a general workflow for TORQUE enviroment
+    - Add Code
+        - Need one version to submit the code to the cluster
+        - One version to exec locally - add warning that this local resource may not be sufficient to do these simulations 
+- Include some result files - need to be discussed
+- Clean up project.py

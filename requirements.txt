@@ -1,0 +1,6 @@
+mbuild #Need to pin down the version that still have the OS and no capitalization
+foyer
+signac
+signac-flow
+mdanalysis
+ctools
