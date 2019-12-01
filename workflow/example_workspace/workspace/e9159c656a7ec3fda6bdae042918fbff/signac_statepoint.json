@@ -1,0 +1,8 @@
+{
+  "chainlength": 17,
+  "backbone": "Alkylsilane",
+  "terminal_group": "methyl",
+  "n": 100,
+  "pattern_type": "random",
+  "seed": 27
+}

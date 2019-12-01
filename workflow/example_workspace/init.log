@@ -1,0 +1,18 @@
+INFO:root:Params:                random: 27                num-replicas: 3
+INFO:root:Init begin: 2019-12-01 00:58:38.101962
+INFO:root:Initialized project name
+INFO:root:At the statepoint: {'chainlength': 5, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 27}
+INFO:root:At the statepoint: {'chainlength': 7, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 27}
+INFO:root:At the statepoint: {'chainlength': 9, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 27}
+INFO:root:At the statepoint: {'chainlength': 13, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 27}
+INFO:root:At the statepoint: {'chainlength': 17, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 27}
+INFO:root:At the statepoint: {'chainlength': 5, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 54}
+INFO:root:At the statepoint: {'chainlength': 7, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 54}
+INFO:root:At the statepoint: {'chainlength': 9, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 54}
+INFO:root:At the statepoint: {'chainlength': 13, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 54}
+INFO:root:At the statepoint: {'chainlength': 17, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 54}
+INFO:root:At the statepoint: {'chainlength': 5, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 81}
+INFO:root:At the statepoint: {'chainlength': 7, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 81}
+INFO:root:At the statepoint: {'chainlength': 9, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 81}
+INFO:root:At the statepoint: {'chainlength': 13, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 81}
+INFO:root:At the statepoint: {'chainlength': 17, 'backbone': 'Alkylsilane', 'terminal_group': 'methyl', 'n': 100, 'pattern_type': 'random', 'seed': 81}
