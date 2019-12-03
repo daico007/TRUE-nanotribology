@@ -31,10 +31,13 @@ class SilicaInterface(SilicaInterfaceCarve):
     """
     def __init__(self, tile_x=1, tile_y=1, thickness=1.0, seed=12345):
         thickness = float(thickness)
-
-        from mbuild.lib.bulk_materials import AmorphousSilica
-
-        super(SilicaInterface, self).__init__(bulk_silica=AmorphousSilica(),
+        try:
+            from mbuild.lib.bulk_materials import AmorphousSilica
+            super(SilicaInterface, self).__init__(bulk_silica=AmorphousSilica(),
+                tile_x=tile_x, tile_y=tile_y, thickness=thickness, seed=seed)
+        except:
+            from mbuild.lib.bulk_materials import AmorphousSilicaBulk
+            super(SilicaInterface, self).__init__(bulk_silica=AmorphousSilicaBulk(),
                 tile_x=tile_x, tile_y=tile_y, thickness=thickness, seed=seed)
 
 if __name__ == "__main__":
