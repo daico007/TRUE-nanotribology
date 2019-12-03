@@ -4,11 +4,7 @@ import numpy as np
 
 
 def generate_index_groups(system, terminal_group, freeze_thickness=0.5):
-    backbone_set = {'PEGSilane',
-                    'Alkylsilane',
-                    'FluoroAlkylsilane',
-                    'PolystyreneSilane',
-                    'PVASilane'}
+    backbone_set = {'Alkylsilane'}
     bounding_box = system.boundingbox
     bot_of_box = bounding_box.mins[2]
     top_of_box = bounding_box.maxs[2]

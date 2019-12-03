@@ -46,7 +46,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O   44   1.193   3.688   0.301
     1Botto   Si   45   4.389   0.037   0.735
     1Botto    O   46   2.336   1.231   1.172
-    1Botto   OS   47   4.633   2.192   1.423
+    1BottoO_Sur   47   4.633   2.192   1.423
     1Botto   Si   48   2.539   4.158   1.249
     1Botto    O   49   4.609   2.129   0.702
     1Botto    O   50   2.173   0.662   0.435
@@ -73,7 +73,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O   71   2.116   4.631   1.436
     1Botto   Si   72   2.493   4.710   0.770
     1Botto    O   73   4.924   4.731   0.412
-    1Botto   OS   74   1.000   4.902   1.530
+    1BottoO_Sur   74   1.000   4.902   1.530
     1Botto    O   75   1.936   4.235   1.325
     1Botto    O   76   4.267   3.989   1.336
     1Botto    O   77   3.046   0.713   1.004
@@ -119,7 +119,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  117   3.846   2.591   0.813
     1Botto    O  118   0.609   1.622   0.869
     1Botto   Si  119   3.555   3.007   1.353
-    1Botto   OS  120   1.949   2.452   1.471
+    1BottoO_Sur  120   1.949   2.452   1.471
     1Botto    O  121   4.136   3.634   1.008
     1Botto   Si  122   1.516   3.571   0.730
     1Botto    O  123   0.765   1.605   1.315
@@ -134,12 +134,12 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  132   0.752   4.417   1.237
     1Botto    O  133   3.044   2.307   0.522
     1Botto    O  134   4.670   4.774   0.501
-    1Botto   OS  135   1.324   4.736   1.474
+    1BottoO_Sur  135   1.324   4.736   1.474
     1Botto    O  136   1.145   0.746   0.878
     1Botto   Si  137   2.379   0.168   0.684
     1Botto   Si  138   2.941   1.414   1.277
     1Botto    O  139   0.286   3.007   0.923
-    1Botto   OS  140   3.998   1.963   1.499
+    1BottoO_Sur  140   3.998   1.963   1.499
     1Botto   Si  141   2.198   3.093   0.339
     1Botto    O  142   2.435   1.896   0.767
     1Botto   Si  143   2.253   2.508   0.414
@@ -150,7 +150,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  148   2.606   4.082   0.585
     1Botto    O  149   2.897   3.878   1.021
     1Botto   Si  150   4.943   0.053   0.860
-    1Botto   OS  151   3.091   0.579   1.549
+    1BottoO_Sur  151   3.091   0.579   1.549
     1Botto    O  152   0.477   2.176   0.646
     1Botto    O  153   2.425   3.330   0.787
     1Botto    O  154   2.656   4.306   1.350
@@ -202,7 +202,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  200   0.553   2.970   0.458
     1Botto    O  201   4.127   0.023   1.360
     1Botto   Si  202   1.213   2.994   0.998
-    1Botto   OS  203   3.765   2.268   1.450
+    1BottoO_Sur  203   3.765   2.268   1.450
     1Botto    O  204   1.940   0.553   1.458
     1Botto   Si  205   4.298   4.256   1.056
     1Botto    O  206   0.002   1.453   0.411
@@ -217,7 +217,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  215   2.210   0.296   0.358
     1Botto    O  216   2.398   4.717   0.643
     1Botto   Si  217   3.563   0.780   0.510
-    1Botto   OS  218   2.864   3.625   1.438
+    1BottoO_Sur  218   2.864   3.625   1.438
     1Botto   Si  219   1.526   2.514   1.043
     1Botto    O  220   1.866   3.509   1.064
     1Botto    O  221   2.027   3.757   1.380
@@ -236,7 +236,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  234   4.886   4.314   1.337
     1Botto   Si  235   3.987   1.305   1.347
     1Botto    O  236   0.068   3.052   1.058
-    1Botto   OS  237   1.931   4.063   1.520
+    1BottoO_Sur  237   1.931   4.063   1.520
     1Botto   Si  238   1.994   0.617   0.777
     1Botto   Si  239   2.320   1.208   0.380
     1Botto    O  240   3.084   0.544   0.597
@@ -271,7 +271,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  269   4.983   1.722   1.262
     1Botto    O  270   1.188   4.294   0.550
     1Botto    O  271   4.810   1.859   0.527
-    1Botto   OS  272   3.694   1.358   1.521
+    1BottoO_Sur  272   3.694   1.358   1.521
     1Botto   Si  273   1.358   4.513   0.832
     1Botto    O  274   0.794   2.961   0.855
     1Botto    O  275   1.945   1.629   0.927
@@ -291,7 +291,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  289   1.720   2.972   1.348
     1Botto    O  290   0.080   4.259   0.780
     1Botto    O  291   2.221   1.328   0.388
-    1Botto   OS  292   4.014   2.593   1.432
+    1BottoO_Sur  292   4.014   2.593   1.432
     1Botto    O  293   0.330   4.202   0.723
     1Botto    O  294   4.270   4.053   0.386
     1Botto   Si  295   1.700   0.515   0.810
@@ -303,7 +303,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  301   1.300   3.186   0.770
     1Botto    O  302   1.844   1.872   0.847
     1Botto    O  303   2.444   1.675   0.659
-    1Botto   OS  304   4.945   4.872   1.467
+    1BottoO_Sur  304   4.945   4.872   1.467
     1Botto   Si  305   1.495   1.291   0.605
     1Botto    O  306   1.497   1.879   0.998
     1Botto    O  307   3.799   4.494   1.237
@@ -318,7 +318,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  316   4.630   4.330   0.912
     1Botto    O  317   2.146   1.460   0.862
     1Botto    O  318   3.882   4.791   0.356
-    1Botto   OS  319   3.160   2.226   1.530
+    1BottoO_Sur  319   3.160   2.226   1.530
     1Botto    O  320   3.346   0.200   0.379
     1Botto    O  321   2.730   1.465   0.842
     1Botto   Si  322   4.778   3.042   1.302
@@ -335,19 +335,19 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  333   1.617   3.592   0.618
     1Botto   Si  334   4.698   0.294   0.398
     1Botto    O  335   1.642   4.894   0.526
-    1Botto   OS  336   2.669   4.496   1.513
+    1BottoO_Sur  336   2.669   4.496   1.513
     1Botto    O  337   4.980   3.841   1.248
     1Botto   Si  338   4.578   3.395   1.341
     1Botto   Si  339   2.843   0.099   0.902
-    1Botto   OS  340   1.371   4.408   1.413
-    1Botto   OS  341   1.842   2.839   1.516
+    1BottoO_Sur  340   1.371   4.408   1.413
+    1BottoO_Sur  341   1.842   2.839   1.516
     1Botto    O  342   0.379   1.923   1.222
     1Botto   Si  343   3.738   1.437   0.927
     1Botto    O  344   3.961   1.711   0.476
     1Botto    O  345   1.898   2.320   0.494
     1Botto    O  346   3.338   2.959   0.865
     1Botto   Si  347   0.650   3.435   0.364
-    1Botto   OS  348   2.710   3.841   1.421
+    1BottoO_Sur  348   2.710   3.841   1.421
     1Botto    O  349   1.064   4.172   1.232
     1Botto   Si  350   2.180   2.348   1.015
     1Botto    O  351   3.219   0.294   1.105
@@ -362,10 +362,10 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  360   2.406   3.515   1.424
     1Botto   Si  361   0.754   1.743   1.227
     1Botto    O  362   1.193   1.001   0.440
-    1Botto   OS  363   2.949   2.488   1.508
+    1BottoO_Sur  363   2.949   2.488   1.508
     1Botto    O  364   4.745   1.297   1.206
     1Botto    O  365   1.643   0.134   0.642
-    1Botto   OS  366   1.511   4.181   1.435
+    1BottoO_Sur  366   1.511   4.181   1.435
     1Botto   Si  367   1.031   1.189   1.040
     1Botto    O  368   1.121   3.236   1.345
     1Botto    O  369   2.378   4.684   0.391
@@ -393,9 +393,9 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  391   1.221   3.132   0.649
     1Botto   Si  392   0.366   4.799   0.327
     1Botto    O  393   0.238   3.840   0.926
-    1Botto   OS  394   0.237   1.567   1.517
+    1BottoO_Sur  394   0.237   1.567   1.517
     1Botto    O  395   1.648   4.303   0.544
-    1Botto   OS  396   1.889   1.464   1.409
+    1BottoO_Sur  396   1.889   1.464   1.409
     1Botto    O  397   0.840   3.784   0.999
     1Botto   Si  398   3.524   2.610   0.982
     1Botto    O  399   4.164   4.829   1.205
@@ -409,7 +409,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  407   4.645   4.546   0.857
     1Botto    O  408   0.385   4.968   1.242
     1Botto    O  409   1.194   2.631   1.012
-    1Botto   OS  410   0.153   3.446   1.478
+    1BottoO_Sur  410   0.153   3.446   1.478
     1Botto    O  411   3.473   3.708   0.730
     1Botto    O  412   0.999   3.273   0.375
     1Botto    O  413   4.570   1.299   1.394
@@ -427,12 +427,12 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  425   0.340   1.136   1.171
     1Botto   Si  426   0.616   0.452   0.296
     1Botto   Si  427   3.600   0.480   0.546
-    1Botto   OS  428   3.194   2.465   1.555
+    1BottoO_Sur  428   3.194   2.465   1.555
     1Botto    O  429   4.045   0.889   1.125
     1Botto   Si  430   3.638   0.876   0.911
     1Botto   Si  431   0.182   2.764   1.235
     1Botto    O  432   4.780   3.715   1.281
-    1Botto   OS  433   0.603   2.859   1.466
+    1BottoO_Sur  433   0.603   2.859   1.466
     1Botto    O  434   1.119   4.513   1.316
     1Botto    O  435   4.811   4.744   1.041
     1Botto    O  436   3.951   2.086   0.821
@@ -452,7 +452,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  450   4.398   3.796   0.931
     1Botto   Si  451   3.988   1.002   1.446
     1Botto   Si  452   1.227   3.491   0.741
-    1Botto   OS  453   4.811   3.133   1.426
+    1BottoO_Sur  453   4.811   3.133   1.426
     1Botto    O  454   2.500   1.849   1.117
     1Botto    O  455   0.276   2.421   1.040
     1Botto    O  456   4.296   2.617   1.182
@@ -475,15 +475,15 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  473   4.070   3.441   1.226
     1Botto    O  474   3.740   4.928   1.034
     1Botto    O  475   2.730   0.992   0.432
-    1Botto   OS  476   3.897   3.884   1.442
+    1BottoO_Sur  476   3.897   3.884   1.442
     1Botto    O  477   4.750   1.721   0.961
     1Botto    O  478   1.078   4.005   0.879
-    1Botto   OS  479   2.130   0.576   1.625
+    1BottoO_Sur  479   2.130   0.576   1.625
     1Botto    O  480   1.712   1.993   1.355
     1Botto   Si  481   2.493   2.490   0.590
     1Botto   Si  482   4.623   3.681   1.271
     1Botto    O  483   1.757   0.710   1.365
-    1Botto   OS  484   0.402   3.526   1.474
+    1BottoO_Sur  484   0.402   3.526   1.474
     1Botto    O  485   0.396   3.173   0.393
     1Botto    O  486   3.003   4.818   0.550
     1Botto   Si  487   1.343   2.790   1.392
@@ -508,7 +508,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  506   1.009   1.071   0.615
     1Botto    O  507   1.919   1.719   0.521
     1Botto    O  508   3.712   4.821   1.237
-    1Botto   OS  509   2.130   2.405   1.627
+    1BottoO_Sur  509   2.130   2.405   1.627
     1Botto   Si  510   1.137   1.633   1.218
     1Botto    O  511   2.102   2.263   1.413
     1Botto    O  512   3.552   4.993   0.158
@@ -517,7 +517,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  515   3.955   3.432   0.590
     1Botto   Si  516   1.959   1.869   0.479
     1Botto    O  517   1.554   1.189   1.258
-    1Botto   OS  518   3.757   4.394   1.455
+    1BottoO_Sur  518   3.757   4.394   1.455
     1Botto   Si  519   0.328   2.204   0.689
     1Botto   Si  520   1.644   0.313   1.041
     1Botto    O  521   3.474   2.046   0.682
@@ -527,7 +527,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  525   0.219   0.799   0.579
     1Botto    O  526   1.649   2.192   1.201
     1Botto    O  527   0.874   2.371   1.214
-    1Botto   OS  528   1.352   2.192   1.582
+    1BottoO_Sur  528   1.352   2.192   1.582
     1Botto    O  529   0.967   0.309   0.735
     1Botto   Si  530   4.549   0.231   0.913
     1Botto    O  531   3.455   0.174   0.711
@@ -542,7 +542,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  540   0.351   2.649   0.769
     1Botto    O  541   2.481   4.062   0.215
     1Botto   Si  542   3.312   3.193   1.406
-    1Botto   OS  543   2.808   1.940   1.413
+    1BottoO_Sur  543   2.808   1.940   1.413
     1Botto   Si  544   4.534   4.846   0.525
     1Botto    O  545   1.509   1.626   1.078
     1Botto    O  546   0.175   2.523   0.465
@@ -553,7 +553,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  551   1.414   3.921   0.689
     1Botto    O  552   1.050   1.931   0.767
     1Botto   Si  553   1.491   0.721   0.693
-    1Botto   OS  554   3.599   2.887   1.445
+    1BottoO_Sur  554   3.599   2.887   1.445
     1Botto   Si  555   2.868   2.573   0.935
     1Botto    O  556   3.533   3.037   0.298
     1Botto   Si  557   0.868   4.320   0.770
@@ -566,7 +566,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  564   1.075   3.609   1.147
     1Botto   Si  565   4.745   1.742   0.437
     1Botto    O  566   2.816   1.585   0.637
-    1Botto   OS  567   0.116   2.282   1.427
+    1BottoO_Sur  567   0.116   2.282   1.427
     1Botto    O  568   2.094   3.521   1.372
     1Botto    O  569   4.481   0.091   0.857
     1Botto   Si  570   4.496   0.155   1.419
@@ -582,7 +582,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  580   1.274   3.098   0.889
     1Botto    O  581   4.612   0.124   1.287
     1Botto    O  582   2.629   3.054   0.322
-    1Botto   OS  583   2.470   2.568   1.482
+    1BottoO_Sur  583   2.470   2.568   1.482
     1Botto    O  584   0.788   2.456   0.932
     1Botto    O  585   2.704   2.230   0.836
     1Botto    O  586   2.530   0.070   1.038
@@ -617,13 +617,13 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  615   3.625   2.671   0.877
     1Botto   Si  616   1.401   1.517   1.117
     1Botto    O  617   0.379   1.676   1.288
-    1Botto   OS  618   2.543   3.463   1.485
+    1BottoO_Sur  618   2.543   3.463   1.485
     1Botto   Si  619   4.854   0.505   1.210
     1Botto   Si  620   2.218   1.558   1.295
     1Botto   Si  621   4.966   4.183   1.389
     1Botto   Si  622   3.076   2.826   1.426
     1Botto    O  623   4.069   2.221   0.405
-    1Botto   OS  624   2.358   3.596   1.549
+    1BottoO_Sur  624   2.358   3.596   1.549
     1Botto    O  625   1.458   3.220   0.746
     1Botto    O  626   4.088   3.856   0.882
     1Botto    O  627   2.483   4.303   0.264
@@ -638,7 +638,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  636   0.860   4.637   0.222
     1Botto   Si  637   3.465   0.315   0.772
     1Botto    O  638   1.515   1.131   0.593
-    1Botto   OS  639   4.930   2.884   1.543
+    1BottoO_Sur  639   4.930   2.884   1.543
     1Botto   Si  640   0.537   1.007   0.446
     1Botto   Si  641   1.180   3.360   1.422
     1Botto    O  642   4.235   0.749   1.217
@@ -670,16 +670,16 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  668   2.848   0.841   0.773
     1Botto   Si  669   0.051   0.754   1.200
     1Botto    O  670   0.967   0.566   0.460
-    1Botto   OS  671   1.340   2.433   1.520
+    1BottoO_Sur  671   1.340   2.433   1.520
     1Botto    O  672   0.064   4.662   0.224
-    1Botto   OS  673   1.107   1.300   1.443
+    1BottoO_Sur  673   1.107   1.300   1.443
     1Botto    O  674   4.746   1.380   0.831
     1Botto    O  675   1.888   2.569   1.156
     1Botto   Si  676   0.964   2.929   0.366
     1Botto    O  677   0.674   2.773   0.745
     1Botto    O  678   2.921   0.152   1.384
     1Botto   Si  679   0.737   1.130   1.089
-    1Botto   OS  680   3.194   3.831   1.532
+    1BottoO_Sur  680   3.194   3.831   1.532
     1Botto   Si  681   3.067   3.254   0.954
     1Botto    O  682   1.234   3.332   0.767
     1Botto   Si  683   0.553   3.601   0.842
@@ -700,7 +700,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  698   2.746   4.372   1.448
     1Botto    O  699   1.420   3.827   0.290
     1Botto    O  700   2.263   3.691   1.317
-    1Botto   OS  701   1.447   1.253   1.455
+    1BottoO_Sur  701   1.447   1.253   1.455
     1Botto   Si  702   3.270   3.914   1.413
     1Botto    O  703   4.662   1.789   1.401
     1Botto   Si  704   1.591   4.069   1.351
@@ -730,7 +730,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  728   0.039   4.222   0.419
     1Botto    O  729   4.942   1.883   1.269
     1Botto    O  730   2.712   2.799   0.515
-    1Botto   OS  731   4.837   0.901   1.453
+    1BottoO_Sur  731   4.837   0.901   1.453
     1Botto   Si  732   0.826   4.094   0.442
     1Botto    O  733   4.113   2.210   0.666
     1Botto    O  734   4.421   1.792   1.360
@@ -744,7 +744,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  742   3.099   4.825   1.004
     1Botto    O  743   3.724   4.976   0.350
     1Botto   Si  744   3.089   1.673   0.337
-    1Botto   OS  745   0.730   3.433   1.473
+    1BottoO_Sur  745   0.730   3.433   1.473
     1Botto    O  746   2.650   4.435   0.921
     1Botto    O  747   4.045   4.076   1.429
     1Botto    O  748   4.922   2.626   0.798
@@ -752,7 +752,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  750   3.391   3.164   0.738
     1Botto    O  751   4.345   1.583   1.013
     1Botto   Si  752   4.604   2.506   0.560
-    1Botto   OS  753   0.576   0.289   1.518
+    1BottoO_Sur  753   0.576   0.289   1.518
     1Botto    O  754   0.188   2.619   0.770
     1Botto    O  755   1.736   0.222   1.140
     1Botto    O  756   0.715   1.731   0.404
@@ -782,7 +782,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  780   1.118   2.008   0.887
     1Botto    O  781   3.233   3.678   0.215
     1Botto   Si  782   2.690   3.278   1.205
-    1Botto   OS  783   0.952   2.929   1.423
+    1BottoO_Sur  783   0.952   2.929   1.423
     1Botto   Si  784   2.676   0.620   1.469
     1Botto    O  785   3.118   3.876   0.387
     1Botto    O  786   4.276   3.690   0.687
@@ -791,7 +791,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  789   0.978   3.051   0.257
     1Botto    O  790   0.907   1.456   1.463
     1Botto   Si  791   2.621   3.572   1.143
-    1Botto   OS  792   3.190   1.282   1.503
+    1BottoO_Sur  792   3.190   1.282   1.503
     1Botto    O  793   3.382   0.181   1.225
     1Botto    O  794   3.224   2.463   0.846
     1Botto    O  795   4.492   0.700   1.229
@@ -825,12 +825,12 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  823   3.559   3.795   1.383
     1Botto    O  824   0.573   2.215   1.248
     1Botto    O  825   4.926   3.113   0.249
-    1Botto   OS  826   3.215   3.159   1.529
+    1BottoO_Sur  826   3.215   3.159   1.529
     1Botto   Si  827   3.006   2.046   0.987
     1Botto    O  828   0.669   2.193   0.496
     1Botto    O  829   1.773   2.164   0.352
     1Botto    O  830   1.970   4.581   1.019
-    1Botto   OS  831   4.969   3.612   1.407
+    1BottoO_Sur  831   4.969   3.612   1.407
     1Botto    O  832   2.103   1.029   0.897
     1Botto   Si  833   0.030   1.163   0.951
     1Botto   Si  834   4.789   3.989   0.597
@@ -843,17 +843,17 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  841   2.928   2.013   1.117
     1Botto    O  842   1.839   3.584   0.473
     1Botto   Si  843   4.529   2.587   0.931
-    1Botto   OS  844   0.914   2.011   1.519
+    1BottoO_Sur  844   0.914   2.011   1.519
     1Botto   Si  845   4.251   2.231   1.045
     1Botto   Si  846   1.573   2.954   0.370
-    1Botto   OS  847   1.684   3.697   1.549
+    1BottoO_Sur  847   1.684   3.697   1.549
     1Botto   Si  848   0.967   4.784   0.549
     1Botto    O  849   1.237   4.892   0.818
     1Botto    O  850   2.464   0.094   0.793
     1Botto    O  851   1.981   0.301   0.323
-    1Botto   OS  852   4.587   0.145   1.545
+    1BottoO_Sur  852   4.587   0.145   1.545
     1Botto    O  853   3.544   0.000   1.293
-    1Botto   OS  854   2.080   1.582   1.430
+    1BottoO_Sur  854   2.080   1.582   1.430
     1Botto    O  855   0.681   2.792   0.991
     1Botto    O  856   3.660   3.887   0.670
     1Botto   Si  857   1.011   1.908   1.171
@@ -883,11 +883,11 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  881   2.674   2.684   0.291
     1Botto    O  882   3.006   0.294   0.579
     1Botto    O  883   4.530   2.121   0.482
-    1Botto   OS  884   2.548   0.107   1.525
+    1BottoO_Sur  884   2.548   0.107   1.525
     1Botto    O  885   0.998   1.089   0.913
     1Botto   Si  886   1.577   3.232   1.118
     1Botto    O  887   2.596   3.244   0.495
-    1Botto   OS  888   4.903   4.111   1.515
+    1BottoO_Sur  888   4.903   4.111   1.515
     1Botto    O  889   4.963   3.805   0.410
     1Botto   Si  890   2.776   2.252   0.301
     1Botto    O  891   0.613   1.803   1.270
@@ -905,7 +905,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  903   4.320   3.226   1.189
     1Botto    O  904   0.252   0.179   1.275
     1Botto    O  905   1.587   3.112   0.357
-    1Botto   OS  906   2.636   0.736   1.565
+    1BottoO_Sur  906   2.636   0.736   1.565
     1Botto    O  907   3.697   2.310   1.202
     1Botto    O  908   2.469   0.577   0.865
     1Botto   Si  909   0.333   1.703   0.282
@@ -916,11 +916,11 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  914   2.366   1.890   0.368
     1Botto   Si  915   1.412   3.730   1.244
     1Botto   Si  916   4.832   0.322   0.950
-    1Botto   OS  917   2.141   0.377   1.458
+    1BottoO_Sur  917   2.141   0.377   1.458
     1Botto    O  918   0.876   4.504   1.224
     1Botto   Si  919   3.535   3.421   0.951
     1Botto   Si  920   4.702   0.005   1.244
-    1Botto   OS  921   3.797   4.116   1.521
+    1BottoO_Sur  921   3.797   4.116   1.521
     1Botto    O  922   1.993   3.390   0.522
     1Botto    O  923   4.193   3.790   0.474
     1Botto   Si  924   0.629   1.747   0.957
@@ -932,7 +932,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  930   0.237   1.548   0.529
     1Botto    O  931   2.732   2.926   1.249
     1Botto   Si  932   0.506   1.301   0.965
-    1Botto   OS  933   0.088   1.389   1.513
+    1BottoO_Sur  933   0.088   1.389   1.513
     1Botto    O  934   1.854   0.530   0.793
     1Botto    O  935   4.864   4.379   0.848
     1Botto    O  936   1.183   3.090   1.116
@@ -949,11 +949,11 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  947   1.902   2.598   0.741
     1Botto    O  948   2.347   1.334   0.954
     1Botto    O  949   3.676   3.099   1.310
-    1Botto   OS  950   2.656   2.773   1.459
+    1BottoO_Sur  950   2.656   2.773   1.459
     1Botto   Si  951   2.392   2.500   0.872
     1Botto    O  952   3.327   3.795   1.327
     1Botto    O  953   2.245   2.118   1.300
-    1Botto   OS  954   1.199   3.353   1.576
+    1BottoO_Sur  954   1.199   3.353   1.576
     1Botto    O  955   2.585   2.582   0.502
     1Botto    O  956   4.047   3.147   0.802
     1Botto   Si  957   4.908   0.929   0.798
@@ -961,7 +961,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  959   3.421   4.080   0.445
     1Botto    O  960   3.861   3.772   0.317
     1Botto   Si  961   0.708   2.025   0.884
-    1Botto   OS  962   0.254   0.912   1.495
+    1BottoO_Sur  962   0.254   0.912   1.495
     1Botto   Si  963   4.891   4.658   1.143
     1Botto   Si  964   3.455   0.993   0.703
     1Botto   Si  965   2.004   3.122   1.012
@@ -972,7 +972,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  970   4.892   3.319   0.823
     1Botto   Si  971   1.932   3.809   1.259
     1Botto   Si  972   0.194   3.590   1.169
-    1Botto   OS  973   0.526   2.234   1.489
+    1BottoO_Sur  973   0.526   2.234   1.489
     1Botto    O  974   4.954   4.762   1.251
     1Botto    O  975   4.575   3.727   1.127
     1Botto    O  976   4.178   3.021   1.208
@@ -983,9 +983,9 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si  981   1.021   4.853   1.376
     1Botto    O  982   4.898   3.223   0.460
     1Botto   Si  983   3.777   3.985   0.648
-    1Botto   OS  984   1.202   3.871   1.552
+    1BottoO_Sur  984   1.202   3.871   1.552
     1Botto    O  985   0.818   0.102   0.660
-    1Botto   OS  986   0.184   0.662   1.559
+    1BottoO_Sur  986   0.184   0.662   1.559
     1Botto   Si  987   2.953   3.334   0.544
     1Botto    O  988   4.623   2.347   0.576
     1Botto   Si  989   1.722   2.831   0.648
@@ -997,7 +997,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O  995   1.302   3.775   1.340
     1Botto   Si  996   4.903   1.667   0.974
     1Botto    O  997   3.871   3.972   0.775
-    1Botto   OS  998   0.922   2.485   1.445
+    1BottoO_Sur  998   0.922   2.485   1.445
     1Botto   Si  999   3.078   4.684   0.595
     1Botto    O 1000   1.048   2.986   0.485
     1Botto   Si 1001   1.824   1.291   1.015
@@ -1026,14 +1026,14 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1024   4.296   2.170   0.490
     1Botto    O 1025   1.123   1.900   0.280
     1Botto   Si 1026   3.087   0.815   0.358
-    1Botto   OS 1027   1.683   1.764   1.482
+    1BottoO_Sur 1027   1.683   1.764   1.482
     1Botto   Si 1028   1.072   4.454   0.957
     1Botto    O 1029   4.459   0.328   1.009
     1Botto    O 1030   4.069   1.299   1.216
     1Botto    O 1031   2.376   3.408   0.554
     1Botto    O 1032   2.858   1.943   0.468
     1Botto   Si 1033   4.885   3.247   0.304
-    1Botto   OS 1034   4.074   3.401   1.462
+    1BottoO_Sur 1034   4.074   3.401   1.462
     1Botto    O 1035   0.226   2.876   1.136
     1Botto    O 1036   0.871   1.840   1.206
     1Botto   Si 1037   3.666   2.983   0.371
@@ -1046,12 +1046,12 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1044   3.075   0.417   0.509
     1Botto    O 1045   1.084   3.481   1.385
     1Botto    O 1046   0.611   3.806   0.586
-    1Botto   OS 1047   0.499   4.329   1.603
+    1BottoO_Sur 1047   0.499   4.329   1.603
     1Botto    O 1048   3.867   3.648   0.895
     1Botto   Si 1049   1.116   0.960   0.577
     1Botto    O 1050   3.957   1.150   1.387
     1Botto   Si 1051   0.726   3.521   1.342
-    1Botto   OS 1052   2.937   0.269   1.580
+    1BottoO_Sur 1052   2.937   0.269   1.580
     1Botto   Si 1053   4.037   1.449   0.872
     1Botto    O 1054   4.968   3.235   0.703
     1Botto    O 1055   1.422   2.254   1.318
@@ -1059,7 +1059,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1057   3.465   4.961   0.384
     1Botto    O 1058   0.068   3.034   0.538
     1Botto   Si 1059   1.908   4.865   1.225
-    1Botto   OS 1060   0.147   1.151   1.452
+    1BottoO_Sur 1060   0.147   1.151   1.452
     1Botto   Si 1061   2.215   0.299   1.055
     1Botto    O 1062   0.249   1.834   0.292
     1Botto   Si 1063   4.632   4.156   0.392
@@ -1116,7 +1116,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1114   1.291   2.731   1.253
     1Botto   Si 1115   0.420   0.506   1.084
     1Botto    O 1116   3.995   0.549   0.513
-    1Botto   OS 1117   2.073   2.067   1.576
+    1BottoO_Sur 1117   2.073   2.067   1.576
     1Botto   Si 1118   0.213   1.453   0.407
     1Botto   Si 1119   2.381   0.876   0.706
     1Botto    O 1120   1.509   0.078   0.444
@@ -1134,7 +1134,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1132   2.861   1.537   0.496
     1Botto    O 1133   3.999   0.417   0.307
     1Botto   Si 1134   2.503   3.209   0.856
-    1Botto   OS 1135   4.070   0.215   1.524
+    1BottoO_Sur 1135   4.070   0.215   1.524
     1Botto   Si 1136   2.094   2.405   1.471
     1Botto    O 1137   4.363   3.322   0.500
     1Botto   Si 1138   1.134   4.152   0.467
@@ -1156,7 +1156,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1154   2.917   4.027   0.697
     1Botto   Si 1155   0.336   0.314   1.306
     1Botto    O 1156   2.423   3.209   0.994
-    1Botto   OS 1157   1.214   2.860   1.452
+    1BottoO_Sur 1157   1.214   2.860   1.452
     1Botto    O 1158   3.601   1.405   1.294
     1Botto   Si 1159   0.414   3.189   1.224
     1Botto    O 1160   1.396   3.579   1.186
@@ -1165,11 +1165,11 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1163   1.631   0.919   1.219
     1Botto    O 1164   4.972   0.611   1.200
     1Botto   Si 1165   4.622   0.678   0.609
-    1Botto   OS 1166   1.556   2.344   1.513
+    1BottoO_Sur 1166   1.556   2.344   1.513
     1Botto    O 1167   4.945   0.867   1.216
     1Botto   Si 1168   3.737   0.326   1.358
     1Botto    O 1169   0.056   2.483   0.942
-    1Botto   OS 1170   4.508   0.355   1.438
+    1BottoO_Sur 1170   4.508   0.355   1.438
     1Botto    O 1171   3.102   1.281   0.425
     1Botto    O 1172   4.251   1.381   0.332
     1Botto    O 1173   4.498   3.500   0.395
@@ -1188,7 +1188,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1186   4.587   1.388   0.808
     1Botto    O 1187   4.318   2.427   1.357
     1Botto    O 1188   3.416   1.782   1.096
-    1Botto   OS 1189   1.837   4.438   1.466
+    1BottoO_Sur 1189   1.837   4.438   1.466
     1Botto   Si 1190   4.912   2.021   1.197
     1Botto    O 1191   1.574   1.084   0.813
     1Botto   Si 1192   0.574   4.637   0.953
@@ -1213,7 +1213,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1211   1.245   0.005   0.921
     1Botto    O 1212   4.613   1.823   1.153
     1Botto    O 1213   2.517   0.934   0.642
-    1Botto   OS 1214   2.991   1.416   1.427
+    1BottoO_Sur 1214   2.991   1.416   1.427
     1Botto    O 1215   3.333   4.403   1.003
     1Botto    O 1216   4.184   2.408   0.523
     1Botto   Si 1217   3.736   1.727   0.800
@@ -1224,7 +1224,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1222   1.402   1.023   1.156
     1Botto   Si 1223   2.258   1.351   0.831
     1Botto    O 1224   4.912   0.187   0.937
-    1Botto   OS 1225   1.035   1.030   1.415
+    1BottoO_Sur 1225   1.035   1.030   1.415
     1Botto   Si 1226   4.895   1.410   0.802
     1Botto   Si 1227   4.688   0.390   0.689
     1Botto    O 1228   3.546   3.286   0.602
@@ -1260,7 +1260,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1258   0.384   0.386   0.800
     1Botto   Si 1259   0.273   0.759   0.987
     1Botto   Si 1260   0.334   3.842   1.279
-    1Botto   OS 1261   1.758   2.229   1.424
+    1BottoO_Sur 1261   1.758   2.229   1.424
     1Botto    O 1262   0.751   2.591   1.149
     1Botto   Si 1263   0.842   2.476   0.787
     1Botto    O 1264   0.124   1.700   1.326
@@ -1272,7 +1272,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1270   3.465   0.416   0.409
     1Botto   Si 1271   2.066   3.257   0.570
     1Botto    O 1272   0.996   0.677   1.053
-    1Botto   OS 1273   1.842   1.234   1.417
+    1BottoO_Sur 1273   1.842   1.234   1.417
     1Botto    O 1274   0.633   4.972   0.569
     1Botto    O 1275   2.802   2.312   0.439
     1Botto   Si 1276   1.359   0.138   0.440
@@ -1286,21 +1286,21 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1284   2.172   0.428   1.131
     1Botto    O 1285   3.016   1.925   0.884
     1Botto    O 1286   1.062   3.719   1.378
-    1Botto   OS 1287   3.987   4.798   1.402
+    1BottoO_Sur 1287   3.987   4.798   1.402
     1Botto   Si 1288   1.583   1.761   1.071
-    1Botto   OS 1289   2.237   4.460   1.579
+    1BottoO_Sur 1289   2.237   4.460   1.579
     1Botto    O 1290   4.948   3.967   0.588
     1Botto   Si 1291   3.902   2.646   1.332
     1Botto    O 1292   1.752   1.306   0.333
     1Botto   Si 1293   1.321   4.387   0.552
-    1Botto   OS 1294   4.271   4.059   1.582
+    1BottoO_Sur 1294   4.271   4.059   1.582
     1Botto    O 1295   3.676   2.834   0.327
     1Botto    O 1296   0.019   0.821   0.754
     1Botto    O 1297   4.092   0.892   0.903
-    1Botto   OS 1298   0.630   1.123   1.441
-    1Botto   OS 1299   0.742   1.619   1.573
+    1BottoO_Sur 1298   0.630   1.123   1.441
+    1BottoO_Sur 1299   0.742   1.619   1.573
     1Botto   Si 1300   3.559   4.850   1.253
-    1Botto   OS 1301   4.677   1.531   1.573
+    1BottoO_Sur 1301   4.677   1.531   1.573
     1Botto    O 1302   3.252   3.096   1.289
     1Botto   Si 1303   2.638   3.085   0.479
     1Botto   Si 1304   2.125   0.083   1.252
@@ -1322,7 +1322,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1320   0.232   3.609   1.021
     1Botto   Si 1321   3.363   3.625   0.790
     1Botto   Si 1322   4.161   0.164   1.405
-    1Botto   OS 1323   3.800   2.732   1.408
+    1BottoO_Sur 1323   3.800   2.732   1.408
     1Botto    O 1324   1.078   0.566   1.259
     1Botto    O 1325   2.415   4.323   1.009
     1Botto    O 1326   4.314   2.858   1.081
@@ -1332,7 +1332,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1330   2.649   2.981   1.135
     1Botto    O 1331   1.855   1.200   0.542
     1Botto    O 1332   3.155   3.597   0.456
-    1Botto   OS 1333   4.474   4.760   1.497
+    1BottoO_Sur 1333   4.474   4.760   1.497
     1Botto   Si 1334   0.077   4.705   0.373
     1Botto    O 1335   0.255   0.759   0.333
     1Botto   Si 1336   4.599   3.216   0.831
@@ -1341,7 +1341,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1339   4.326   0.409   1.014
     1Botto    O 1340   0.675   1.061   1.212
     1Botto   Si 1341   2.742   0.369   1.015
-    1Botto   OS 1342   4.834   1.727   1.573
+    1BottoO_Sur 1342   4.834   1.727   1.573
     1Botto    O 1343   2.006   3.968   0.193
     1Botto    O 1344   1.781   0.042   0.421
     1Botto    O 1345   3.827   0.609   1.124
@@ -1352,20 +1352,20 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1350   0.904   0.826   0.866
     1Botto    O 1351   2.408   1.242   0.253
     1Botto    O 1352   3.776   3.293   0.244
-    1Botto   OS 1353   0.460   4.914   1.452
+    1BottoO_Sur 1353   0.460   4.914   1.452
     1Botto    O 1354   2.461   2.101   1.185
     1Botto    O 1355   2.292   2.525   0.265
     1Botto    O 1356   1.325   4.602   1.267
     1Botto    O 1357   1.080   4.746   0.655
     1Botto   Si 1358   2.184   4.118   0.915
-    1Botto   OS 1359   4.124   3.173   1.405
+    1BottoO_Sur 1359   4.124   3.173   1.405
     1Botto    O 1360   0.915   0.792   0.353
     1Botto   Si 1361   4.054   0.999   1.008
     1Botto    O 1362   0.573   0.532   1.122
     1Botto    O 1363   0.196   3.891   0.496
     1Botto    O 1364   3.929   4.015   1.007
     1Botto    O 1365   0.385   1.706   0.435
-    1Botto   OS 1366   0.619   3.877   1.486
+    1BottoO_Sur 1366   0.619   3.877   1.486
     1Botto    O 1367   1.789   4.162   0.717
     1Botto   Si 1368   4.116   3.211   0.928
     1Botto   Si 1369   0.753   1.871   0.455
@@ -1394,7 +1394,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1392   4.290   3.976   1.179
     1Botto   Si 1393   4.463   3.212   0.556
     1Botto   Si 1394   0.667   2.864   0.418
-    1Botto   OS 1395   1.372   2.678   1.515
+    1BottoO_Sur 1395   1.372   2.678   1.515
     1Botto    O 1396   3.529   1.216   0.424
     1Botto    O 1397   2.317   1.581   0.453
     1Botto    O 1398   3.624   3.361   1.318
@@ -1425,7 +1425,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1423   2.068   2.457   1.053
     1Botto   Si 1424   4.987   3.975   1.162
     1Botto    O 1425   4.689   4.125   1.023
-    1Botto   OS 1426   2.797   4.277   1.556
+    1BottoO_Sur 1426   2.797   4.277   1.556
     1Botto   Si 1427   4.193   2.955   1.070
     1Botto    O 1428   0.097   0.596   0.657
     1Botto    O 1429   1.566   3.430   0.805
@@ -1436,7 +1436,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1434   0.245   0.034   1.060
     1Botto   Si 1435   3.445   4.570   1.273
     1Botto    O 1436   3.548   0.097   1.063
-    1Botto   OS 1437   3.609   0.351   1.444
+    1BottoO_Sur 1437   3.609   0.351   1.444
     1Botto    O 1438   3.831   1.692   0.684
     1Botto   Si 1439   4.960   1.091   0.337
     1Botto    O 1440   3.038   4.044   1.184
@@ -1464,7 +1464,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1462   2.944   4.414   0.636
     1Botto   Si 1463   3.456   3.720   1.269
     1Botto    O 1464   1.541   1.797   0.375
-    1Botto   OS 1465   2.042   4.775   1.613
+    1BottoO_Sur 1465   2.042   4.775   1.613
     1Botto    O 1466   4.869   2.995   0.914
     1Botto   Si 1467   1.970   3.512   0.430
     1Botto    O 1468   2.483   4.928   1.353
@@ -1480,7 +1480,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1478   4.042   2.219   0.802
     1Botto    O 1479   4.154   3.029   0.585
     1Botto   Si 1480   1.512   2.350   0.552
-    1Botto   OS 1481   3.129   2.915   1.551
+    1BottoO_Sur 1481   3.129   2.915   1.551
     1Botto    O 1482   3.723   4.462   0.816
     1Botto   Si 1483   3.746   2.994   0.665
     1Botto    O 1484   0.241   4.501   1.467
@@ -1546,10 +1546,10 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1544   2.753   0.260   0.592
     1Botto   Si 1545   4.365   0.638   0.431
     1Botto    O 1546   4.245   4.508   0.560
-    1Botto   OS 1547   3.290   1.069   1.570
+    1BottoO_Sur 1547   3.290   1.069   1.570
     1Botto    O 1548   3.868   3.459   0.719
     1Botto   Si 1549   4.377   2.677   0.674
-    1Botto   OS 1550   2.004   3.422   1.567
+    1BottoO_Sur 1550   2.004   3.422   1.567
     1Botto   Si 1551   4.246   3.133   1.305
     1Botto    O 1552   0.491   1.753   1.047
     1Botto   Si 1553   3.144   2.196   0.501
@@ -1562,9 +1562,9 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1560   3.154   4.146   1.247
     1Botto    O 1561   2.549   1.373   1.205
     1Botto   Si 1562   4.119   2.543   0.567
-    1Botto   OS 1563   3.882   0.898   1.501
+    1BottoO_Sur 1563   3.882   0.898   1.501
     1Botto   Si 1564   2.502   3.362   0.458
-    1Botto   OS 1565   2.312   1.031   1.598
+    1BottoO_Sur 1565   2.312   1.031   1.598
     1Botto    O 1566   2.585   3.732   0.496
     1Botto    O 1567   2.627   2.256   0.255
     1Botto    O 1568   3.370   0.352   0.887
@@ -1626,7 +1626,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1624   2.546   0.002   0.893
     1Botto    O 1625   2.684   3.138   1.140
     1Botto   Si 1626   0.669   2.875   0.860
-    1Botto   OS 1627   4.381   3.648   1.605
+    1BottoO_Sur 1627   4.381   3.648   1.605
     1Botto    O 1628   2.293   0.841   0.344
     1Botto    O 1629   3.966   2.349   0.822
     1Botto    O 1630   4.052   1.341   0.758
@@ -1638,7 +1638,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1636   4.581   2.630   0.282
     1Botto    O 1637   1.305   4.651   0.793
     1Botto    O 1638   0.072   4.982   0.898
-    1Botto   OS 1639   3.654   1.582   1.434
+    1BottoO_Sur 1639   3.654   1.582   1.434
     1Botto    O 1640   3.862   1.399   1.340
     1Botto   Si 1641   1.120   3.522   1.021
     1Botto    O 1642   1.612   2.726   0.712
@@ -1649,7 +1649,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1647   3.887   4.042   1.414
     1Botto    O 1648   2.916   3.207   0.630
     1Botto    O 1649   1.621   4.207   0.285
-    1Botto   OS 1650   1.946   1.042   1.540
+    1BottoO_Sur 1650   1.946   1.042   1.540
     1Botto   Si 1651   0.919   0.211   0.619
     1Botto    O 1652   2.238   1.090   0.313
     1Botto    O 1653   2.954   2.787   0.559
@@ -1690,7 +1690,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1688   0.261   4.644   0.708
     1Botto    O 1689   1.364   4.988   1.021
     1Botto    O 1690   3.067   3.418   0.928
-    1Botto   OS 1691   0.348   0.364   1.467
+    1BottoO_Sur 1691   0.348   0.364   1.467
     1Botto   Si 1692   4.113   4.265   0.814
     1Botto    O 1693   4.002   0.672   1.278
     1Botto    O 1694   4.652   1.484   1.368
@@ -1707,10 +1707,10 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1705   4.736   3.244   0.263
     1Botto    O 1706   3.839   4.522   0.350
     1Botto    O 1707   0.239   1.805   0.642
-    1Botto   OS 1708   2.274   3.096   1.459
+    1BottoO_Sur 1708   2.274   3.096   1.459
     1Botto    O 1709   3.345   1.314   0.318
     1Botto    O 1710   2.404   2.316   1.355
-    1Botto   OS 1711   4.676   4.430   1.412
+    1BottoO_Sur 1711   4.676   4.430   1.412
     1Botto    O 1712   3.674   3.486   0.912
     1Botto    O 1713   4.367   3.533   0.843
     1Botto    O 1714   3.989   0.220   1.022
@@ -1720,16 +1720,16 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1718   3.584   1.820   1.399
     1Botto    O 1719   4.546   3.038   0.256
     1Botto    O 1720   3.425   3.508   0.876
-    1Botto   OS 1721   0.359   4.135   1.513
+    1BottoO_Sur 1721   0.359   4.135   1.513
     1Botto    O 1722   1.438   2.632   1.082
-    1Botto   OS 1723   4.855   2.657   1.450
+    1BottoO_Sur 1723   4.855   2.657   1.450
     1Botto   Si 1724   0.535   4.942   1.273
     1Botto    O 1725   3.429   0.481   1.371
     1Botto    O 1726   4.153   1.140   0.637
     1Botto    O 1727   4.609   3.542   0.195
     1Botto   Si 1728   1.140   2.266   0.447
-    1Botto   OS 1729   3.864   3.257   1.434
-    1Botto   OS 1730   4.072   1.401   1.448
+    1BottoO_Sur 1729   3.864   3.257   1.434
+    1BottoO_Sur 1730   4.072   1.401   1.448
     1Botto   Si 1731   0.544   4.632   1.262
     1Botto    O 1732   4.797   0.388   0.802
     1Botto    O 1733   2.261   2.428   0.912
@@ -1759,7 +1759,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1757   3.635   4.812   0.717
     1Botto    O 1758   1.023   4.902   0.456
     1Botto    O 1759   2.836   2.418   0.907
-    1Botto   OS 1760   0.803   4.266   1.597
+    1BottoO_Sur 1760   0.803   4.266   1.597
     1Botto    O 1761   2.066   4.364   0.428
     1Botto   Si 1762   1.938   4.115   0.730
     1Botto    O 1763   3.096   1.159   0.864
@@ -1769,7 +1769,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1767   1.813   1.356   1.323
     1Botto    O 1768   1.224   2.581   0.308
     1Botto    O 1769   0.712   4.960   0.830
-    1Botto   OS 1770   1.110   1.549   1.585
+    1BottoO_Sur 1770   1.110   1.549   1.585
     1Botto   Si 1771   4.765   4.404   1.285
     1Botto    O 1772   0.726   4.027   0.548
     1Botto   Si 1773   0.591   3.961   0.602
@@ -1847,7 +1847,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1845   2.731   4.524   0.822
     1Botto    O 1846   3.400   2.291   0.768
     1Botto    O 1847   0.725   3.003   1.323
-    1Botto   OS 1848   4.508   2.942   1.508
+    1BottoO_Sur 1848   4.508   2.942   1.508
     1Botto    O 1849   4.512   3.728   0.308
     1Botto    O 1850   0.681   4.750   0.952
     1Botto    O 1851   1.427   4.310   0.457
@@ -1856,12 +1856,12 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1854   4.017   4.385   0.470
     1Botto    O 1855   2.771   4.071   0.651
     1Botto    O 1856   4.091   4.106   0.822
-    1Botto   OS 1857   3.411   3.931   1.498
+    1BottoO_Sur 1857   3.411   3.931   1.498
     1Botto    O 1858   3.005   4.027   0.572
     1Botto    O 1859   3.967   2.711   1.205
     1Botto    O 1860   1.732   4.701   0.352
     1Botto   Si 1861   3.296   0.401   1.011
-    1Botto   OS 1862   1.092   0.378   1.438
+    1BottoO_Sur 1862   1.092   0.378   1.438
     1Botto   Si 1863   3.483   3.408   1.259
     1Botto    O 1864   0.763   4.322   1.359
     1Botto   Si 1865   4.772   2.664   0.762
@@ -1869,7 +1869,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1867   2.392   4.233   1.232
     1Botto    O 1868   2.589   4.051   1.370
     1Botto    O 1869   3.691   1.588   0.868
-    1Botto   OS 1870   0.647   1.410   1.456
+    1BottoO_Sur 1870   0.647   1.410   1.456
     1Botto    O 1871   2.112   4.784   0.942
     1Botto    O 1872   4.423   0.141   0.259
     1Botto    O 1873   2.139   2.422   0.463
@@ -1883,7 +1883,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1881   4.082   2.584   0.195
     1Botto    O 1882   0.516   3.372   0.320
     1Botto   Si 1883   4.308   4.731   1.120
-    1Botto   OS 1884   3.832   0.245   1.455
+    1BottoO_Sur 1884   3.832   0.245   1.455
     1Botto    O 1885   0.979   4.110   0.474
     1Botto    O 1886   0.619   1.075   0.559
     1Botto    O 1887   3.406   4.971   0.838
@@ -1938,7 +1938,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 1936   0.948   2.582   0.322
     1Botto   Si 1937   1.311   4.757   1.321
     1Botto    O 1938   1.612   1.811   1.223
-    1Botto   OS 1939   2.962   4.945   1.523
+    1BottoO_Sur 1939   2.962   4.945   1.523
     1Botto   Si 1940   0.250   3.688   0.883
     1Botto    O 1941   1.046   1.951   1.023
     1Botto    O 1942   3.159   0.043   1.138
@@ -1978,7 +1978,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 1976   3.596   3.743   0.648
     1Botto   Si 1977   0.546   1.528   0.753
     1Botto    O 1978   2.794   1.458   1.261
-    1Botto   OS 1979   2.653   0.489   1.550
+    1BottoO_Sur 1979   2.653   0.489   1.550
     1Botto   Si 1980   4.332   4.183   0.329
     1Botto   Si 1981   4.340   4.627   0.619
     1Botto   Si 1982   2.965   1.130   0.779
@@ -2028,7 +2028,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 2026   2.259   4.237   0.559
     1Botto    O 2027   0.636   0.099   1.336
     1Botto    O 2028   2.110   1.862   0.438
-    1Botto   OS 2029   4.052   1.043   1.582
+    1BottoO_Sur 2029   4.052   1.043   1.582
     1Botto    O 2030   2.860   2.554   1.099
     1Botto   Si 2031   4.513   1.604   0.590
     1Botto    O 2032   4.806   4.545   1.229
@@ -2042,7 +2042,7 @@ GROningen MAchine for Chemical Simulation
     1Botto   Si 2040   1.662   3.778   1.408
     1Botto   Si 2041   0.296   3.421   1.400
     1Botto    O 2042   1.325   0.490   0.367
-    1Botto   OS 2043   1.154   2.064   1.513
+    1BottoO_Sur 2043   1.154   2.064   1.513
     1Botto   Si 2044   1.764   2.136   1.305
     1Botto    O 2045   3.705   0.837   0.532
     1Botto    O 2046   1.853   0.957   0.473
@@ -2054,7 +2054,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 2052   4.858   0.005   1.281
     1Botto    O 2053   0.910   4.171   0.774
     1Botto    O 2054   2.339   1.554   1.398
-    1Botto   OS 2055   4.672   3.329   1.440
+    1BottoO_Sur 2055   4.672   3.329   1.440
     1Botto    O 2056   3.829   1.903   1.309
     1Botto    O 2057   4.875   1.654   1.354
     1Botto    O 2058   0.286   3.125   1.150
@@ -2066,7 +2066,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 2064   1.307   3.391   1.332
     1Botto    O 2065   0.119   4.958   1.285
     1Botto   Si 2066   2.327   3.697   1.182
-    1Botto   OS 2067   0.299   1.800   1.487
+    1BottoO_Sur 2067   0.299   1.800   1.487
     1Botto    O 2068   2.505   3.726   0.739
     1Botto    O 2069   1.495   1.923   0.603
     1Botto    O 2070   2.088   3.053   0.242
@@ -2083,7 +2083,7 @@ GROningen MAchine for Chemical Simulation
     1Botto    O 2081   0.902   3.639   0.736
     1Botto    O 2082   0.041   3.617   1.190
     1Botto    O 2083   0.732   1.722   1.075
-    1Botto   OS 2084   4.126   3.855   1.508
+    1BottoO_Sur 2084   4.126   3.855   1.508
     1Botto    O 2085   4.832   4.943   0.889
     1Botto   Si 2086   4.630   0.724   1.158
     1Botto   Si 2087   0.099   2.245   1.272
@@ -8178,7 +8178,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8176   3.812   3.688  10.564
     2Top     Si 8177   0.617   0.037  10.129
     2Top      O 8178   2.670   1.231   9.692
-    2Top     OS 8179   0.372   2.192   9.441
+    2Top  O_Sur 8179   0.372   2.192   9.441
     2Top     Si 8180   2.467   4.158   9.615
     2Top      O 8181   0.397   2.129  10.162
     2Top      O 8182   2.832   0.662  10.429
@@ -8205,7 +8205,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8203   2.890   4.631   9.428
     2Top     Si 8204   2.513   4.710  10.094
     2Top      O 8205   0.082   4.731  10.452
-    2Top     OS 8206   4.006   4.902   9.334
+    2Top  O_Sur 8206   4.006   4.902   9.334
     2Top      O 8207   3.069   4.235   9.539
     2Top      O 8208   0.739   3.989   9.528
     2Top      O 8209   1.960   0.713   9.860
@@ -8251,7 +8251,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8249   1.159   2.591  10.051
     2Top      O 8250   4.396   1.622   9.995
     2Top     Si 8251   1.451   3.007   9.511
-    2Top     OS 8252   3.057   2.452   9.394
+    2Top  O_Sur 8252   3.057   2.452   9.394
     2Top      O 8253   0.870   3.634   9.856
     2Top     Si 8254   3.489   3.571  10.134
     2Top      O 8255   4.241   1.605   9.549
@@ -8266,12 +8266,12 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8264   4.254   4.417   9.627
     2Top      O 8265   1.961   2.307  10.342
     2Top      O 8266   0.335   4.774  10.363
-    2Top     OS 8267   3.682   4.736   9.391
+    2Top  O_Sur 8267   3.682   4.736   9.391
     2Top      O 8268   3.861   0.746   9.987
     2Top     Si 8269   2.626   0.168  10.180
     2Top     Si 8270   2.065   1.414   9.587
     2Top      O 8271   4.720   3.007   9.942
-    2Top     OS 8272   1.008   1.963   9.366
+    2Top  O_Sur 8272   1.008   1.963   9.366
     2Top     Si 8273   2.808   3.093  10.525
     2Top      O 8274   2.571   1.896  10.097
     2Top     Si 8275   2.753   2.508  10.450
@@ -8282,7 +8282,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8280   2.400   4.082  10.279
     2Top      O 8281   2.109   3.878   9.843
     2Top     Si 8282   0.063   0.053  10.004
-    2Top     OS 8283   1.915   0.579   9.315
+    2Top  O_Sur 8283   1.915   0.579   9.315
     2Top      O 8284   4.529   2.176  10.219
     2Top      O 8285   2.580   3.330  10.077
     2Top      O 8286   2.350   4.306   9.514
@@ -8334,7 +8334,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8332   4.453   2.970  10.406
     2Top      O 8333   0.879   0.023   9.504
     2Top     Si 8334   3.793   2.994   9.866
-    2Top     OS 8335   1.240   2.268   9.414
+    2Top  O_Sur 8335   1.240   2.268   9.414
     2Top      O 8336   3.066   0.553   9.406
     2Top     Si 8337   0.708   4.256   9.808
     2Top      O 8338   5.004   1.453  10.453
@@ -8349,7 +8349,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8347   2.796   0.296  10.506
     2Top      O 8348   2.608   4.717  10.221
     2Top     Si 8349   1.442   0.780  10.355
-    2Top     OS 8350   2.142   3.625   9.426
+    2Top  O_Sur 8350   2.142   3.625   9.426
     2Top     Si 8351   3.480   2.514   9.821
     2Top      O 8352   3.140   3.509   9.801
     2Top      O 8353   2.979   3.757   9.484
@@ -8368,7 +8368,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8366   0.119   4.314   9.527
     2Top     Si 8367   1.019   1.305   9.517
     2Top      O 8368   4.938   3.052   9.806
-    2Top     OS 8369   3.075   4.063   9.344
+    2Top  O_Sur 8369   3.075   4.063   9.344
     2Top     Si 8370   3.012   0.617  10.087
     2Top     Si 8371   2.686   1.208  10.484
     2Top      O 8372   1.922   0.544  10.267
@@ -8403,7 +8403,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8401   0.023   1.722   9.603
     2Top      O 8402   3.817   4.294  10.314
     2Top      O 8403   0.196   1.859  10.337
-    2Top     OS 8404   1.312   1.358   9.343
+    2Top  O_Sur 8404   1.312   1.358   9.343
     2Top     Si 8405   3.648   4.513  10.032
     2Top      O 8406   4.212   2.961  10.009
     2Top      O 8407   3.061   1.629   9.938
@@ -8423,7 +8423,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8421   3.286   2.972   9.516
     2Top      O 8422   4.926   4.259  10.084
     2Top      O 8423   2.785   1.328  10.476
-    2Top     OS 8424   0.992   2.593   9.432
+    2Top  O_Sur 8424   0.992   2.593   9.432
     2Top      O 8425   4.676   4.202  10.141
     2Top      O 8426   0.736   4.053  10.478
     2Top     Si 8427   3.306   0.515  10.054
@@ -8435,7 +8435,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8433   3.706   3.186  10.094
     2Top      O 8434   3.161   1.872  10.018
     2Top      O 8435   2.562   1.675  10.206
-    2Top     OS 8436   0.061   4.872   9.397
+    2Top  O_Sur 8436   0.061   4.872   9.397
     2Top     Si 8437   3.510   1.291  10.259
     2Top      O 8438   3.509   1.879   9.866
     2Top      O 8439   1.207   4.494   9.627
@@ -8450,7 +8450,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8448   0.376   4.330   9.952
     2Top      O 8449   2.859   1.460  10.003
     2Top      O 8450   1.123   4.791  10.509
-    2Top     OS 8451   1.846   2.226   9.334
+    2Top  O_Sur 8451   1.846   2.226   9.334
     2Top      O 8452   1.659   0.200  10.486
     2Top      O 8453   2.275   1.465  10.022
     2Top     Si 8454   0.227   3.042   9.563
@@ -8467,19 +8467,19 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8465   3.388   3.592  10.246
     2Top     Si 8466   0.308   0.294  10.466
     2Top      O 8467   3.364   4.894  10.338
-    2Top     OS 8468   2.336   4.496   9.351
+    2Top  O_Sur 8468   2.336   4.496   9.351
     2Top      O 8469   0.026   3.841   9.616
     2Top     Si 8470   0.427   3.395   9.523
     2Top     Si 8471   2.163   0.099   9.962
-    2Top     OS 8472   3.635   4.408   9.452
-    2Top     OS 8473   3.164   2.839   9.348
+    2Top  O_Sur 8472   3.635   4.408   9.452
+    2Top  O_Sur 8473   3.164   2.839   9.348
     2Top      O 8474   4.627   1.923   9.642
     2Top     Si 8475   1.268   1.437   9.938
     2Top      O 8476   1.045   1.711  10.388
     2Top      O 8477   3.107   2.320  10.371
     2Top      O 8478   1.667   2.959   9.999
     2Top     Si 8479   4.355   3.435  10.500
-    2Top     OS 8480   2.296   3.841   9.443
+    2Top  O_Sur 8480   2.296   3.841   9.443
     2Top      O 8481   3.942   4.172   9.632
     2Top     Si 8482   2.826   2.348   9.849
     2Top      O 8483   1.787   0.294   9.759
@@ -8494,10 +8494,10 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8492   2.600   3.515   9.441
     2Top     Si 8493   4.251   1.743   9.637
     2Top      O 8494   3.813   1.001  10.424
-    2Top     OS 8495   2.057   2.488   9.356
+    2Top  O_Sur 8495   2.057   2.488   9.356
     2Top      O 8496   0.261   1.297   9.659
     2Top      O 8497   3.362   0.134  10.222
-    2Top     OS 8498   3.495   4.181   9.429
+    2Top  O_Sur 8498   3.495   4.181   9.429
     2Top     Si 8499   3.974   1.189   9.824
     2Top      O 8500   3.885   3.236   9.519
     2Top      O 8501   2.628   4.684  10.474
@@ -8525,9 +8525,9 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8523   3.785   3.132  10.215
     2Top     Si 8524   4.640   4.799  10.538
     2Top      O 8525   4.768   3.840   9.938
-    2Top     OS 8526   4.769   1.567   9.347
+    2Top  O_Sur 8526   4.769   1.567   9.347
     2Top      O 8527   3.358   4.303  10.321
-    2Top     OS 8528   3.116   1.464   9.455
+    2Top  O_Sur 8528   3.116   1.464   9.455
     2Top      O 8529   4.166   3.784   9.865
     2Top     Si 8530   1.482   2.610   9.882
     2Top      O 8531   0.842   4.829   9.659
@@ -8541,7 +8541,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8539   0.361   4.546  10.007
     2Top      O 8540   4.621   4.968   9.622
     2Top      O 8541   3.812   2.631   9.852
-    2Top     OS 8542   4.852   3.446   9.386
+    2Top  O_Sur 8542   4.852   3.446   9.386
     2Top      O 8543   1.533   3.708  10.134
     2Top      O 8544   4.006   3.273  10.489
     2Top      O 8545   0.435   1.299   9.471
@@ -8559,12 +8559,12 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8557   4.666   1.136   9.693
     2Top     Si 8558   4.390   0.452  10.568
     2Top     Si 8559   1.406   0.480  10.318
-    2Top     OS 8560   1.812   2.465   9.309
+    2Top  O_Sur 8560   1.812   2.465   9.309
     2Top      O 8561   0.961   0.889   9.739
     2Top     Si 8562   1.368   0.876   9.953
     2Top     Si 8563   4.824   2.764   9.629
     2Top      O 8564   0.226   3.715   9.584
-    2Top     OS 8565   4.403   2.859   9.399
+    2Top  O_Sur 8565   4.403   2.859   9.399
     2Top      O 8566   3.887   4.513   9.548
     2Top      O 8567   0.195   4.744   9.823
     2Top      O 8568   1.054   2.086  10.043
@@ -8584,7 +8584,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8582   0.608   3.796   9.933
     2Top     Si 8583   1.018   1.002   9.418
     2Top     Si 8584   3.778   3.491  10.123
-    2Top     OS 8585   0.195   3.133   9.438
+    2Top  O_Sur 8585   0.195   3.133   9.438
     2Top      O 8586   2.506   1.849   9.747
     2Top      O 8587   4.730   2.421   9.824
     2Top      O 8588   0.710   2.617   9.682
@@ -8607,15 +8607,15 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8605   0.936   3.441   9.638
     2Top      O 8606   1.266   4.928   9.830
     2Top      O 8607   2.276   0.992  10.432
-    2Top     OS 8608   1.109   3.884   9.422
+    2Top  O_Sur 8608   1.109   3.884   9.422
     2Top      O 8609   0.256   1.721   9.903
     2Top      O 8610   3.928   4.005   9.985
-    2Top     OS 8611   2.875   0.576   9.239
+    2Top  O_Sur 8611   2.875   0.576   9.239
     2Top      O 8612   3.294   1.993   9.509
     2Top     Si 8613   2.513   2.490  10.274
     2Top     Si 8614   0.383   3.681   9.594
     2Top      O 8615   3.249   0.710   9.500
-    2Top     OS 8616   4.603   3.526   9.390
+    2Top  O_Sur 8616   4.603   3.526   9.390
     2Top      O 8617   4.610   3.173  10.472
     2Top      O 8618   2.002   4.818  10.314
     2Top     Si 8619   3.663   2.790   9.472
@@ -8640,7 +8640,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8638   3.997   1.071  10.249
     2Top      O 8639   3.086   1.719  10.344
     2Top      O 8640   1.294   4.821   9.627
-    2Top     OS 8641   2.876   2.405   9.237
+    2Top  O_Sur 8641   2.876   2.405   9.237
     2Top     Si 8642   3.869   1.633   9.646
     2Top      O 8643   2.904   2.263   9.452
     2Top      O 8644   1.454   4.993  10.706
@@ -8649,7 +8649,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8647   1.051   3.432  10.274
     2Top     Si 8648   3.046   1.869  10.385
     2Top      O 8649   3.452   1.189   9.606
-    2Top     OS 8650   1.249   4.394   9.409
+    2Top  O_Sur 8650   1.249   4.394   9.409
     2Top     Si 8651   4.678   2.204  10.175
     2Top     Si 8652   3.361   0.313   9.823
     2Top      O 8653   1.531   2.046  10.182
@@ -8659,7 +8659,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8657   4.787   0.799  10.285
     2Top      O 8658   3.356   2.192   9.663
     2Top      O 8659   4.132   2.371   9.651
-    2Top     OS 8660   3.653   2.192   9.282
+    2Top  O_Sur 8660   3.653   2.192   9.282
     2Top      O 8661   4.038   0.309  10.129
     2Top     Si 8662   0.457   0.231   9.952
     2Top      O 8663   1.550   0.174  10.153
@@ -8674,7 +8674,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8672   4.655   2.649  10.095
     2Top      O 8673   2.525   4.062  10.649
     2Top     Si 8674   1.694   3.193   9.459
-    2Top     OS 8675   2.197   1.940   9.452
+    2Top  O_Sur 8675   2.197   1.940   9.452
     2Top     Si 8676   0.472   4.846  10.339
     2Top      O 8677   3.497   1.626   9.786
     2Top      O 8678   4.831   2.523  10.400
@@ -8685,7 +8685,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8683   3.591   3.921  10.175
     2Top      O 8684   3.956   1.931  10.097
     2Top     Si 8685   3.515   0.721  10.171
-    2Top     OS 8686   1.406   2.887   9.419
+    2Top  O_Sur 8686   1.406   2.887   9.419
     2Top     Si 8687   2.138   2.573   9.930
     2Top      O 8688   1.473   3.037  10.567
     2Top     Si 8689   4.137   4.320  10.094
@@ -8698,7 +8698,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8696   3.931   3.609   9.717
     2Top     Si 8697   0.261   1.742  10.428
     2Top      O 8698   2.190   1.585  10.227
-    2Top     OS 8699   4.889   2.282   9.437
+    2Top  O_Sur 8699   4.889   2.282   9.437
     2Top      O 8700   2.912   3.521   9.492
     2Top      O 8701   0.525   0.091  10.007
     2Top     Si 8702   0.509   0.155   9.445
@@ -8714,7 +8714,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8712   3.731   3.098   9.975
     2Top      O 8713   0.394   0.124   9.577
     2Top      O 8714   2.376   3.054  10.542
-    2Top     OS 8715   2.536   2.568   9.382
+    2Top  O_Sur 8715   2.536   2.568   9.382
     2Top      O 8716   4.218   2.456   9.932
     2Top      O 8717   2.302   2.230  10.028
     2Top      O 8718   2.476   0.070   9.826
@@ -8749,13 +8749,13 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8747   1.380   2.671   9.987
     2Top     Si 8748   3.604   1.517   9.747
     2Top      O 8749   4.627   1.676   9.576
-    2Top     OS 8750   2.463   3.463   9.380
+    2Top  O_Sur 8750   2.463   3.463   9.380
     2Top     Si 8751   0.151   0.505   9.655
     2Top     Si 8752   2.788   1.558   9.570
     2Top     Si 8753   0.040   4.183   9.475
     2Top     Si 8754   1.930   2.826   9.438
     2Top      O 8755   0.937   2.221  10.459
-    2Top     OS 8756   2.648   3.596   9.315
+    2Top  O_Sur 8756   2.648   3.596   9.315
     2Top      O 8757   3.548   3.220  10.118
     2Top      O 8758   0.918   3.856   9.982
     2Top      O 8759   2.522   4.303  10.600
@@ -8770,7 +8770,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8768   4.146   4.637  10.642
     2Top     Si 8769   1.541   0.315  10.092
     2Top      O 8770   3.490   1.131  10.271
-    2Top     OS 8771   0.076   2.884   9.322
+    2Top  O_Sur 8771   0.076   2.884   9.322
     2Top     Si 8772   4.469   1.007  10.418
     2Top     Si 8773   3.825   3.360   9.442
     2Top      O 8774   0.771   0.749   9.648
@@ -8802,16 +8802,16 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8800   2.158   0.841  10.092
     2Top     Si 8801   4.955   0.754   9.664
     2Top      O 8802   4.039   0.566  10.404
-    2Top     OS 8803   3.666   2.433   9.344
+    2Top  O_Sur 8803   3.666   2.433   9.344
     2Top      O 8804   4.941   4.662  10.640
-    2Top     OS 8805   3.899   1.300   9.421
+    2Top  O_Sur 8805   3.899   1.300   9.421
     2Top      O 8806   0.260   1.380  10.033
     2Top      O 8807   3.118   2.569   9.708
     2Top     Si 8808   4.042   2.929  10.498
     2Top      O 8809   4.332   2.773  10.119
     2Top      O 8810   2.085   0.152   9.480
     2Top     Si 8811   4.269   1.130   9.775
-    2Top     OS 8812   1.811   3.831   9.332
+    2Top  O_Sur 8812   1.811   3.831   9.332
     2Top     Si 8813   1.938   3.254   9.910
     2Top      O 8814   3.772   3.332  10.097
     2Top     Si 8815   4.453   3.601  10.022
@@ -8832,7 +8832,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8830   2.260   4.372   9.416
     2Top      O 8831   3.586   3.827  10.574
     2Top      O 8832   2.743   3.691   9.547
-    2Top     OS 8833   3.559   1.253   9.409
+    2Top  O_Sur 8833   3.559   1.253   9.409
     2Top     Si 8834   1.736   3.914   9.451
     2Top      O 8835   0.344   1.789   9.463
     2Top     Si 8836   3.415   4.069   9.513
@@ -8862,7 +8862,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8860   4.967   4.222  10.445
     2Top      O 8861   0.063   1.883   9.595
     2Top      O 8862   2.294   2.799  10.349
-    2Top     OS 8863   0.169   0.901   9.411
+    2Top  O_Sur 8863   0.169   0.901   9.411
     2Top     Si 8864   4.179   4.094  10.422
     2Top      O 8865   0.893   2.210  10.198
     2Top      O 8866   0.585   1.792   9.504
@@ -8876,7 +8876,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8874   1.907   4.825   9.860
     2Top      O 8875   1.282   4.976  10.514
     2Top     Si 8876   1.917   1.673  10.527
-    2Top     OS 8877   4.276   3.433   9.391
+    2Top  O_Sur 8877   4.276   3.433   9.391
     2Top      O 8878   2.356   4.435   9.943
     2Top      O 8879   0.961   4.076   9.435
     2Top      O 8880   0.084   2.626  10.067
@@ -8884,7 +8884,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8882   1.615   3.164  10.127
     2Top      O 8883   0.661   1.583   9.851
     2Top     Si 8884   0.401   2.506  10.304
-    2Top     OS 8885   4.430   0.289   9.347
+    2Top  O_Sur 8885   4.430   0.289   9.347
     2Top      O 8886   4.818   2.619  10.094
     2Top      O 8887   3.270   0.222   9.724
     2Top      O 8888   4.290   1.731  10.460
@@ -8914,7 +8914,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 8912   3.888   2.008   9.977
     2Top      O 8913   1.773   3.678  10.649
     2Top     Si 8914   2.316   3.278   9.659
-    2Top     OS 8915   4.054   2.929   9.442
+    2Top  O_Sur 8915   4.054   2.929   9.442
     2Top     Si 8916   2.330   0.620   9.396
     2Top      O 8917   1.888   3.876  10.477
     2Top      O 8918   0.730   3.690  10.177
@@ -8923,7 +8923,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8921   4.028   3.051  10.608
     2Top      O 8922   4.099   1.456   9.401
     2Top     Si 8923   2.385   3.572   9.721
-    2Top     OS 8924   1.816   1.282   9.361
+    2Top  O_Sur 8924   1.816   1.282   9.361
     2Top      O 8925   1.624   0.181   9.639
     2Top      O 8926   1.782   2.463  10.018
     2Top      O 8927   0.513   0.700   9.635
@@ -8957,12 +8957,12 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8955   1.447   3.795   9.482
     2Top      O 8956   4.432   2.215   9.616
     2Top      O 8957   0.080   3.113  10.615
-    2Top     OS 8958   1.791   3.159   9.335
+    2Top  O_Sur 8958   1.791   3.159   9.335
     2Top     Si 8959   2.000   2.046   9.877
     2Top      O 8960   4.337   2.193  10.369
     2Top      O 8961   3.232   2.164  10.512
     2Top      O 8962   3.036   4.581   9.845
-    2Top     OS 8963   0.037   3.612   9.457
+    2Top  O_Sur 8963   0.037   3.612   9.457
     2Top      O 8964   2.902   1.029   9.967
     2Top     Si 8965   4.975   1.163   9.913
     2Top     Si 8966   0.217   3.989  10.267
@@ -8975,17 +8975,17 @@ GROningen MAchine for Chemical Simulation
     2Top      O 8973   2.078   2.013   9.747
     2Top      O 8974   3.167   3.584  10.391
     2Top     Si 8975   0.477   2.587   9.933
-    2Top     OS 8976   4.092   2.011   9.345
+    2Top  O_Sur 8976   4.092   2.011   9.345
     2Top     Si 8977   0.755   2.231   9.819
     2Top     Si 8978   3.433   2.954  10.494
-    2Top     OS 8979   3.321   3.697   9.315
+    2Top  O_Sur 8979   3.321   3.697   9.315
     2Top     Si 8980   4.039   4.784  10.315
     2Top      O 8981   3.768   4.892  10.046
     2Top      O 8982   2.542   0.094  10.071
     2Top      O 8983   3.025   0.301  10.541
-    2Top     OS 8984   0.419   0.145   9.319
+    2Top  O_Sur 8984   0.419   0.145   9.319
     2Top      O 8985   1.461   0.000   9.572
-    2Top     OS 8986   2.925   1.582   9.434
+    2Top  O_Sur 8986   2.925   1.582   9.434
     2Top      O 8987   4.324   2.792   9.873
     2Top      O 8988   1.346   3.887  10.194
     2Top     Si 8989   3.995   1.908   9.694
@@ -9015,11 +9015,11 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9013   2.332   2.684  10.573
     2Top      O 9014   2.000   0.294  10.285
     2Top      O 9015   0.476   2.121  10.383
-    2Top     OS 9016   2.458   0.107   9.339
+    2Top  O_Sur 9016   2.458   0.107   9.339
     2Top      O 9017   4.008   1.089   9.952
     2Top     Si 9018   3.429   3.232   9.746
     2Top      O 9019   2.410   3.244  10.369
-    2Top     OS 9020   0.103   4.111   9.350
+    2Top  O_Sur 9020   0.103   4.111   9.350
     2Top      O 9021   0.043   3.805  10.455
     2Top     Si 9022   2.230   2.252  10.563
     2Top      O 9023   4.393   1.803   9.594
@@ -9037,7 +9037,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9035   0.686   3.226   9.675
     2Top      O 9036   4.753   0.179   9.589
     2Top      O 9037   3.419   3.112  10.507
-    2Top     OS 9038   2.370   0.736   9.299
+    2Top  O_Sur 9038   2.370   0.736   9.299
     2Top      O 9039   1.309   2.310   9.662
     2Top      O 9040   2.537   0.577   9.999
     2Top     Si 9041   4.673   1.703  10.582
@@ -9048,11 +9048,11 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9046   2.640   1.890  10.496
     2Top     Si 9047   3.594   3.730   9.620
     2Top     Si 9048   0.173   0.322   9.915
-    2Top     OS 9049   2.865   0.377   9.406
+    2Top  O_Sur 9049   2.865   0.377   9.406
     2Top      O 9050   4.130   4.504   9.640
     2Top     Si 9051   1.471   3.421   9.913
     2Top     Si 9052   0.304   0.005   9.620
-    2Top     OS 9053   1.209   4.116   9.343
+    2Top  O_Sur 9053   1.209   4.116   9.343
     2Top      O 9054   3.013   3.390  10.342
     2Top      O 9055   0.812   3.790  10.391
     2Top     Si 9056   4.377   1.747   9.907
@@ -9064,7 +9064,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9062   4.768   1.548  10.336
     2Top      O 9063   2.274   2.926   9.615
     2Top     Si 9064   4.500   1.301   9.899
-    2Top     OS 9065   4.918   1.389   9.351
+    2Top  O_Sur 9065   4.918   1.389   9.351
     2Top      O 9066   3.152   0.530  10.072
     2Top      O 9067   0.142   4.379  10.016
     2Top      O 9068   3.823   3.090   9.748
@@ -9081,11 +9081,11 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9079   3.104   2.598  10.123
     2Top      O 9080   2.659   1.334   9.910
     2Top      O 9081   1.329   3.099   9.555
-    2Top     OS 9082   2.350   2.773   9.405
+    2Top  O_Sur 9082   2.350   2.773   9.405
     2Top     Si 9083   2.613   2.500   9.993
     2Top      O 9084   1.679   3.795   9.537
     2Top      O 9085   2.760   2.118   9.564
-    2Top     OS 9086   3.807   3.353   9.288
+    2Top  O_Sur 9086   3.807   3.353   9.288
     2Top      O 9087   2.420   2.582  10.362
     2Top      O 9088   0.959   3.147  10.062
     2Top     Si 9089   0.098   0.929  10.066
@@ -9093,7 +9093,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9091   1.585   4.080  10.419
     2Top      O 9092   1.145   3.772  10.547
     2Top     Si 9093   4.298   2.025   9.980
-    2Top     OS 9094   4.752   0.912   9.370
+    2Top  O_Sur 9094   4.752   0.912   9.370
     2Top     Si 9095   0.115   4.658   9.721
     2Top     Si 9096   1.551   0.993  10.161
     2Top     Si 9097   3.002   3.122   9.852
@@ -9104,7 +9104,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9102   0.114   3.319  10.041
     2Top     Si 9103   3.074   3.809   9.605
     2Top     Si 9104   4.812   3.590   9.695
-    2Top     OS 9105   4.479   2.234   9.375
+    2Top  O_Sur 9105   4.479   2.234   9.375
     2Top      O 9106   0.052   4.762   9.613
     2Top      O 9107   0.431   3.727   9.737
     2Top      O 9108   0.828   3.021   9.656
@@ -9115,9 +9115,9 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9113   3.984   4.853   9.488
     2Top      O 9114   0.107   3.223  10.404
     2Top     Si 9115   1.228   3.985  10.216
-    2Top     OS 9116   3.804   3.871   9.312
+    2Top  O_Sur 9116   3.804   3.871   9.312
     2Top      O 9117   4.188   0.102  10.204
-    2Top     OS 9118   4.822   0.662   9.305
+    2Top  O_Sur 9118   4.822   0.662   9.305
     2Top     Si 9119   2.052   3.334  10.320
     2Top      O 9120   0.382   2.347  10.289
     2Top     Si 9121   3.284   2.831  10.216
@@ -9129,7 +9129,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9127   3.704   3.775   9.524
     2Top     Si 9128   0.103   1.667   9.891
     2Top      O 9129   1.134   3.972  10.089
-    2Top     OS 9130   4.084   2.485   9.419
+    2Top  O_Sur 9130   4.084   2.485   9.419
     2Top     Si 9131   1.927   4.684  10.269
     2Top      O 9132   3.957   2.986  10.379
     2Top     Si 9133   3.182   1.291   9.849
@@ -9158,14 +9158,14 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9156   0.710   2.170  10.374
     2Top      O 9157   3.883   1.900  10.584
     2Top     Si 9158   1.919   0.815  10.506
-    2Top     OS 9159   3.323   1.764   9.382
+    2Top  O_Sur 9159   3.323   1.764   9.382
     2Top     Si 9160   3.933   4.454   9.907
     2Top      O 9161   0.547   0.328   9.855
     2Top      O 9162   0.937   1.299   9.648
     2Top      O 9163   2.630   3.408  10.310
     2Top      O 9164   2.148   1.943  10.396
     2Top     Si 9165   0.121   3.247  10.560
-    2Top     OS 9166   0.932   3.401   9.402
+    2Top  O_Sur 9166   0.932   3.401   9.402
     2Top      O 9167   4.779   2.876   9.728
     2Top      O 9168   4.135   1.840   9.658
     2Top     Si 9169   1.340   2.983  10.493
@@ -9178,12 +9178,12 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9176   1.930   0.417  10.355
     2Top      O 9177   3.922   3.481   9.479
     2Top      O 9178   4.395   3.806  10.278
-    2Top     OS 9179   4.507   4.329   9.262
+    2Top  O_Sur 9179   4.507   4.329   9.262
     2Top      O 9180   1.139   3.648   9.969
     2Top     Si 9181   3.889   0.960  10.287
     2Top      O 9182   1.049   1.150   9.477
     2Top     Si 9183   4.279   3.521   9.522
-    2Top     OS 9184   2.069   0.269   9.284
+    2Top  O_Sur 9184   2.069   0.269   9.284
     2Top     Si 9185   0.968   1.449   9.992
     2Top      O 9186   0.038   3.235  10.161
     2Top      O 9187   3.584   2.254   9.547
@@ -9191,7 +9191,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9189   1.540   4.961  10.480
     2Top      O 9190   4.938   3.034  10.326
     2Top     Si 9191   3.097   4.865   9.639
-    2Top     OS 9192   4.859   1.151   9.412
+    2Top  O_Sur 9192   4.859   1.151   9.412
     2Top     Si 9193   2.791   0.299   9.809
     2Top      O 9194   4.757   1.834  10.572
     2Top     Si 9195   0.374   4.156  10.472
@@ -9248,7 +9248,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9246   3.715   2.731   9.611
     2Top     Si 9247   4.586   0.506   9.780
     2Top      O 9248   1.010   0.549  10.351
-    2Top     OS 9249   2.933   2.067   9.288
+    2Top  O_Sur 9249   2.933   2.067   9.288
     2Top     Si 9250   4.793   1.453  10.457
     2Top     Si 9251   2.625   0.876  10.158
     2Top      O 9252   3.496   0.078  10.420
@@ -9266,7 +9266,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9264   2.145   1.537  10.368
     2Top      O 9265   1.006   0.417  10.557
     2Top     Si 9266   2.502   3.209  10.008
-    2Top     OS 9267   0.936   0.215   9.340
+    2Top  O_Sur 9267   0.936   0.215   9.340
     2Top     Si 9268   2.912   2.405   9.393
     2Top      O 9269   0.643   3.322  10.364
     2Top     Si 9270   3.871   4.152  10.397
@@ -9288,7 +9288,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9286   2.089   4.027  10.167
     2Top     Si 9287   4.669   0.314   9.558
     2Top      O 9288   2.583   3.209   9.871
-    2Top     OS 9289   3.791   2.860   9.412
+    2Top  O_Sur 9289   3.791   2.860   9.412
     2Top      O 9290   1.405   1.405   9.570
     2Top     Si 9291   4.592   3.189   9.641
     2Top      O 9292   3.610   3.579   9.678
@@ -9297,11 +9297,11 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9295   3.375   0.919   9.645
     2Top      O 9296   0.034   0.611   9.665
     2Top     Si 9297   0.384   0.678  10.255
-    2Top     OS 9298   3.450   2.344   9.352
+    2Top  O_Sur 9298   3.450   2.344   9.352
     2Top      O 9299   0.061   0.867   9.648
     2Top     Si 9300   1.269   0.326   9.506
     2Top      O 9301   4.950   2.483   9.922
-    2Top     OS 9302   0.498   0.355   9.426
+    2Top  O_Sur 9302   0.498   0.355   9.426
     2Top      O 9303   1.904   1.281  10.439
     2Top      O 9304   0.755   1.381  10.532
     2Top      O 9305   0.508   3.500  10.469
@@ -9320,7 +9320,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9318   0.418   1.388  10.056
     2Top      O 9319   0.688   2.427   9.507
     2Top      O 9320   1.589   1.782   9.768
-    2Top     OS 9321   3.169   4.438   9.398
+    2Top  O_Sur 9321   3.169   4.438   9.398
     2Top     Si 9322   0.094   2.021   9.667
     2Top      O 9323   3.432   1.084  10.051
     2Top     Si 9324   4.431   4.637   9.911
@@ -9345,7 +9345,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9343   3.760   0.005   9.943
     2Top      O 9344   0.392   1.823   9.711
     2Top      O 9345   2.488   0.934  10.222
-    2Top     OS 9346   2.015   1.416   9.437
+    2Top  O_Sur 9346   2.015   1.416   9.437
     2Top      O 9347   1.672   4.403   9.861
     2Top      O 9348   0.822   2.408  10.342
     2Top     Si 9349   1.270   1.727  10.065
@@ -9356,7 +9356,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9354   3.604   1.023   9.709
     2Top     Si 9355   2.748   1.351  10.033
     2Top      O 9356   0.094   0.187   9.928
-    2Top     OS 9357   3.970   1.030   9.450
+    2Top  O_Sur 9357   3.970   1.030   9.450
     2Top     Si 9358   0.111   1.410  10.062
     2Top     Si 9359   0.318   0.390  10.176
     2Top      O 9360   1.459   3.286  10.262
@@ -9392,7 +9392,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9390   4.622   0.386  10.064
     2Top     Si 9391   4.732   0.759   9.877
     2Top     Si 9392   4.672   3.842   9.585
-    2Top     OS 9393   3.247   2.229   9.440
+    2Top  O_Sur 9393   3.247   2.229   9.440
     2Top      O 9394   4.255   2.591   9.715
     2Top     Si 9395   4.164   2.476  10.077
     2Top      O 9396   4.882   1.700   9.538
@@ -9404,7 +9404,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9402   1.540   0.416  10.455
     2Top     Si 9403   2.940   3.257  10.294
     2Top      O 9404   4.010   0.677   9.811
-    2Top     OS 9405   3.164   1.234   9.447
+    2Top  O_Sur 9405   3.164   1.234   9.447
     2Top      O 9406   4.373   4.972  10.296
     2Top      O 9407   2.203   2.312  10.425
     2Top     Si 9408   3.646   0.138  10.424
@@ -9418,21 +9418,21 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9416   2.833   0.428   9.733
     2Top      O 9417   1.989   1.925   9.980
     2Top      O 9418   3.943   3.719   9.486
-    2Top     OS 9419   1.019   4.798   9.462
+    2Top  O_Sur 9419   1.019   4.798   9.462
     2Top     Si 9420   3.423   1.761   9.793
-    2Top     OS 9421   2.769   4.460   9.285
+    2Top  O_Sur 9421   2.769   4.460   9.285
     2Top      O 9422   0.058   3.967  10.276
     2Top     Si 9423   1.104   2.646   9.532
     2Top      O 9424   3.254   1.306  10.532
     2Top     Si 9425   3.685   4.387  10.313
-    2Top     OS 9426   0.735   4.059   9.282
+    2Top  O_Sur 9426   0.735   4.059   9.282
     2Top      O 9427   1.330   2.834  10.537
     2Top      O 9428   4.986   0.821  10.110
     2Top      O 9429   0.914   0.892   9.961
-    2Top     OS 9430   4.376   1.123   9.423
-    2Top     OS 9431   4.264   1.619   9.291
+    2Top  O_Sur 9430   4.376   1.123   9.423
+    2Top  O_Sur 9431   4.264   1.619   9.291
     2Top     Si 9432   1.447   4.850   9.611
-    2Top     OS 9433   0.329   1.531   9.291
+    2Top  O_Sur 9433   0.329   1.531   9.291
     2Top      O 9434   1.753   3.096   9.575
     2Top     Si 9435   2.367   3.085  10.385
     2Top     Si 9436   2.881   0.083   9.612
@@ -9454,7 +9454,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9452   4.774   3.609   9.843
     2Top     Si 9453   1.642   3.625  10.074
     2Top     Si 9454   0.845   0.164   9.459
-    2Top     OS 9455   1.205   2.732   9.456
+    2Top  O_Sur 9455   1.205   2.732   9.456
     2Top      O 9456   3.928   0.566   9.605
     2Top      O 9457   2.591   4.323   9.855
     2Top      O 9458   0.692   2.858   9.784
@@ -9464,7 +9464,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9462   2.357   2.981   9.729
     2Top      O 9463   3.151   1.200  10.322
     2Top      O 9464   1.851   3.597  10.408
-    2Top     OS 9465   0.532   4.760   9.368
+    2Top  O_Sur 9465   0.532   4.760   9.368
     2Top     Si 9466   4.928   4.705  10.491
     2Top      O 9467   4.751   0.759  10.532
     2Top     Si 9468   0.407   3.216  10.033
@@ -9473,7 +9473,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9471   0.680   0.409   9.850
     2Top      O 9472   4.330   1.061   9.652
     2Top     Si 9473   2.264   0.369   9.849
-    2Top     OS 9474   0.172   1.727   9.291
+    2Top  O_Sur 9474   0.172   1.727   9.291
     2Top      O 9475   2.999   3.968  10.671
     2Top      O 9476   3.225   0.042  10.443
     2Top      O 9477   1.178   0.609   9.741
@@ -9484,20 +9484,20 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9482   4.102   0.826   9.998
     2Top      O 9483   2.598   1.242  10.611
     2Top      O 9484   1.230   3.293  10.620
-    2Top     OS 9485   4.546   4.914   9.412
+    2Top  O_Sur 9485   4.546   4.914   9.412
     2Top      O 9486   2.544   2.101   9.679
     2Top      O 9487   2.714   2.525  10.599
     2Top      O 9488   3.681   4.602   9.597
     2Top      O 9489   3.926   4.746  10.209
     2Top     Si 9490   2.822   4.118   9.949
-    2Top     OS 9491   0.881   3.173   9.460
+    2Top  O_Sur 9491   0.881   3.173   9.460
     2Top      O 9492   4.091   0.792  10.511
     2Top     Si 9493   0.952   0.999   9.856
     2Top      O 9494   4.432   0.532   9.742
     2Top      O 9495   4.810   3.891  10.368
     2Top      O 9496   1.077   4.015   9.857
     2Top      O 9497   4.621   1.706  10.429
-    2Top     OS 9498   4.387   3.877   9.378
+    2Top  O_Sur 9498   4.387   3.877   9.378
     2Top      O 9499   3.216   4.162  10.147
     2Top     Si 9500   0.890   3.211   9.936
     2Top     Si 9501   4.253   1.871  10.409
@@ -9526,7 +9526,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9524   0.716   3.976   9.685
     2Top     Si 9525   0.543   3.212  10.308
     2Top     Si 9526   4.338   2.864  10.446
-    2Top     OS 9527   3.634   2.678   9.349
+    2Top  O_Sur 9527   3.634   2.678   9.349
     2Top      O 9528   1.477   1.216  10.441
     2Top      O 9529   2.689   1.581  10.411
     2Top      O 9530   1.382   3.361   9.546
@@ -9557,7 +9557,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9555   2.938   2.457   9.811
     2Top     Si 9556   0.019   3.975   9.702
     2Top      O 9557   0.317   4.125   9.842
-    2Top     OS 9558   2.208   4.277   9.308
+    2Top  O_Sur 9558   2.208   4.277   9.308
     2Top     Si 9559   0.813   2.955   9.794
     2Top      O 9560   4.908   0.596  10.207
     2Top      O 9561   3.440   3.430  10.059
@@ -9568,7 +9568,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9566   4.761   0.034   9.804
     2Top     Si 9567   1.560   4.570   9.592
     2Top      O 9568   1.458   0.097   9.801
-    2Top     OS 9569   1.397   0.351   9.421
+    2Top  O_Sur 9569   1.397   0.351   9.421
     2Top      O 9570   1.175   1.692  10.180
     2Top     Si 9571   0.046   1.091  10.527
     2Top      O 9572   1.968   4.044   9.680
@@ -9596,7 +9596,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9594   2.062   4.414  10.228
     2Top     Si 9595   1.550   3.720   9.595
     2Top      O 9596   3.464   1.797  10.489
-    2Top     OS 9597   2.964   4.775   9.251
+    2Top  O_Sur 9597   2.964   4.775   9.251
     2Top      O 9598   0.137   2.995   9.950
     2Top     Si 9599   3.035   3.512  10.434
     2Top      O 9600   2.523   4.928   9.511
@@ -9612,7 +9612,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9610   0.964   2.219  10.062
     2Top      O 9611   0.851   3.029  10.279
     2Top     Si 9612   3.494   2.350  10.312
-    2Top     OS 9613   1.876   2.915   9.314
+    2Top  O_Sur 9613   1.876   2.915   9.314
     2Top      O 9614   1.283   4.462  10.048
     2Top     Si 9615   1.260   2.994  10.199
     2Top      O 9616   4.765   4.501   9.397
@@ -9678,10 +9678,10 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9676   2.252   0.260  10.272
     2Top     Si 9677   0.641   0.638  10.433
     2Top      O 9678   0.761   4.508  10.304
-    2Top     OS 9679   1.716   1.069   9.294
+    2Top  O_Sur 9679   1.716   1.069   9.294
     2Top      O 9680   1.137   3.459  10.146
     2Top     Si 9681   0.629   2.677  10.190
-    2Top     OS 9682   3.002   3.422   9.297
+    2Top  O_Sur 9682   3.002   3.422   9.297
     2Top     Si 9683   0.760   3.133   9.559
     2Top      O 9684   4.515   1.753   9.817
     2Top     Si 9685   1.862   2.196  10.364
@@ -9694,9 +9694,9 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9692   1.851   4.146   9.617
     2Top      O 9693   2.457   1.373   9.659
     2Top     Si 9694   0.886   2.543  10.297
-    2Top     OS 9695   1.124   0.898   9.363
+    2Top  O_Sur 9695   1.124   0.898   9.363
     2Top     Si 9696   2.504   3.362  10.406
-    2Top     OS 9697   2.693   1.031   9.266
+    2Top  O_Sur 9697   2.693   1.031   9.266
     2Top      O 9698   2.421   3.732  10.368
     2Top      O 9699   2.379   2.256  10.609
     2Top      O 9700   1.636   0.352   9.977
@@ -9758,7 +9758,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9756   2.460   0.002   9.971
     2Top      O 9757   2.322   3.138   9.724
     2Top     Si 9758   4.337   2.875  10.004
-    2Top     OS 9759   0.625   3.648   9.259
+    2Top  O_Sur 9759   0.625   3.648   9.259
     2Top      O 9760   2.712   0.841  10.520
     2Top      O 9761   1.040   2.349  10.042
     2Top      O 9762   0.954   1.341  10.106
@@ -9770,7 +9770,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9768   0.425   2.630  10.582
     2Top      O 9769   3.701   4.651  10.072
     2Top      O 9770   4.934   4.982   9.967
-    2Top     OS 9771   1.352   1.582   9.430
+    2Top  O_Sur 9771   1.352   1.582   9.430
     2Top      O 9772   1.143   1.399   9.524
     2Top     Si 9773   3.886   3.522   9.843
     2Top      O 9774   3.393   2.726  10.152
@@ -9781,7 +9781,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9779   1.119   4.042   9.450
     2Top      O 9780   2.090   3.207  10.234
     2Top      O 9781   3.385   4.207  10.580
-    2Top     OS 9782   3.060   1.042   9.325
+    2Top  O_Sur 9782   3.060   1.042   9.325
     2Top     Si 9783   4.086   0.211  10.245
     2Top      O 9784   2.768   1.090  10.551
     2Top      O 9785   2.051   2.787  10.305
@@ -9822,7 +9822,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9820   4.745   4.644  10.156
     2Top      O 9821   3.642   4.988   9.843
     2Top      O 9822   1.939   3.418   9.936
-    2Top     OS 9823   4.657   0.364   9.397
+    2Top  O_Sur 9823   4.657   0.364   9.397
     2Top     Si 9824   0.893   4.265  10.050
     2Top      O 9825   1.004   0.672   9.586
     2Top      O 9826   0.354   1.484   9.496
@@ -9839,10 +9839,10 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9837   0.270   3.244  10.601
     2Top      O 9838   1.167   4.522  10.515
     2Top      O 9839   4.767   1.805  10.222
-    2Top     OS 9840   2.731   3.096   9.406
+    2Top  O_Sur 9840   2.731   3.096   9.406
     2Top      O 9841   1.661   1.314  10.546
     2Top      O 9842   2.602   2.316   9.509
-    2Top     OS 9843   0.330   4.430   9.452
+    2Top  O_Sur 9843   0.330   4.430   9.452
     2Top      O 9844   1.332   3.486   9.952
     2Top      O 9845   0.639   3.533  10.021
     2Top      O 9846   1.017   0.220   9.843
@@ -9852,16 +9852,16 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9850   1.422   1.820   9.465
     2Top      O 9851   0.460   3.038  10.608
     2Top      O 9852   1.581   3.508   9.988
-    2Top     OS 9853   4.647   4.135   9.351
+    2Top  O_Sur 9853   4.647   4.135   9.351
     2Top      O 9854   3.568   2.632   9.782
-    2Top     OS 9855   0.150   2.657   9.415
+    2Top  O_Sur 9855   0.150   2.657   9.415
     2Top     Si 9856   4.471   4.942   9.591
     2Top      O 9857   1.577   0.481   9.493
     2Top      O 9858   0.853   1.140  10.227
     2Top      O 9859   0.397   3.542  10.669
     2Top     Si 9860   3.865   2.266  10.417
-    2Top     OS 9861   1.142   3.257   9.430
-    2Top     OS 9862   0.934   1.401   9.417
+    2Top  O_Sur 9861   1.142   3.257   9.430
+    2Top  O_Sur 9862   0.934   1.401   9.417
     2Top     Si 9863   4.461   4.632   9.603
     2Top      O 9864   0.209   0.388  10.062
     2Top      O 9865   2.745   2.428   9.952
@@ -9891,7 +9891,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9889   1.370   4.812  10.147
     2Top      O 9890   3.983   4.902  10.408
     2Top      O 9891   2.170   2.418   9.957
-    2Top     OS 9892   4.203   4.266   9.267
+    2Top  O_Sur 9892   4.203   4.266   9.267
     2Top      O 9893   2.940   4.364  10.436
     2Top     Si 9894   3.068   4.115  10.134
     2Top      O 9895   1.910   1.159  10.001
@@ -9901,7 +9901,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9899   3.193   1.356   9.541
     2Top      O 9900   3.782   2.581  10.557
     2Top      O 9901   4.294   4.960  10.034
-    2Top     OS 9902   3.896   1.549   9.279
+    2Top  O_Sur 9902   3.896   1.549   9.279
     2Top     Si 9903   0.241   4.404   9.579
     2Top      O 9904   4.279   4.027  10.317
     2Top     Si 9905   4.414   3.961  10.263
@@ -9979,7 +9979,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si 9977   2.275   4.524  10.042
     2Top      O 9978   1.606   2.291  10.097
     2Top      O 9979   4.280   3.003   9.542
-    2Top     OS 9980   0.498   2.942   9.356
+    2Top  O_Sur 9980   0.498   2.942   9.356
     2Top      O 9981   0.494   3.728  10.556
     2Top      O 9982   4.324   4.750   9.912
     2Top      O 9983   3.579   4.310  10.408
@@ -9988,12 +9988,12 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9986   0.989   4.385  10.394
     2Top      O 9987   2.235   4.071  10.213
     2Top      O 9988   0.914   4.106  10.042
-    2Top     OS 9989   1.595   3.931   9.366
+    2Top  O_Sur 9989   1.595   3.931   9.366
     2Top      O 9990   2.001   4.027  10.293
     2Top      O 9991   1.039   2.711   9.660
     2Top      O 9992   3.274   4.701  10.512
     2Top     Si 9993   1.710   0.401   9.853
-    2Top     OS 9994   3.913   0.378   9.426
+    2Top  O_Sur 9994   3.913   0.378   9.426
     2Top     Si 9995   1.523   3.408   9.605
     2Top      O 9996   4.243   4.322   9.506
     2Top     Si 9997   0.234   2.664  10.102
@@ -10001,7 +10001,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O 9999   2.614   4.233   9.632
     2Top      O10000   2.417   4.051   9.495
     2Top      O10001   1.314   1.588   9.996
-    2Top     OS10002   4.359   1.410   9.408
+    2Top  O_Sur10002   4.359   1.410   9.408
     2Top      O10003   2.893   4.784   9.922
     2Top      O10004   0.583   0.141  10.605
     2Top      O10005   2.866   2.422  10.402
@@ -10015,7 +10015,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O10013   0.923   2.584  10.669
     2Top      O10014   4.490   3.372  10.544
     2Top     Si10015   0.698   4.731   9.745
-    2Top     OS10016   1.173   0.245   9.409
+    2Top  O_Sur10016   1.173   0.245   9.409
     2Top      O10017   4.027   4.110  10.391
     2Top      O10018   4.387   1.075  10.305
     2Top      O10019   1.600   4.971  10.026
@@ -10070,7 +10070,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O10068   4.058   2.582  10.542
     2Top     Si10069   3.694   4.757   9.543
     2Top      O10070   3.394   1.811   9.641
-    2Top     OS10071   2.044   4.945   9.341
+    2Top  O_Sur10071   2.044   4.945   9.341
     2Top     Si10072   4.756   3.688   9.981
     2Top      O10073   3.960   1.951   9.842
     2Top      O10074   1.847   0.043   9.727
@@ -10110,7 +10110,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si10108   1.409   3.743  10.217
     2Top     Si10109   4.460   1.528  10.111
     2Top      O10110   2.212   1.458   9.603
-    2Top     OS10111   2.352   0.489   9.314
+    2Top  O_Sur10111   2.352   0.489   9.314
     2Top     Si10112   0.673   4.183  10.536
     2Top     Si10113   0.665   4.627  10.245
     2Top     Si10114   2.041   1.130  10.086
@@ -10160,7 +10160,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O10158   2.747   4.237  10.305
     2Top      O10159   4.369   0.099   9.529
     2Top      O10160   2.896   1.862  10.426
-    2Top     OS10161   0.953   1.043   9.282
+    2Top  O_Sur10161   0.953   1.043   9.282
     2Top      O10162   2.146   2.554   9.765
     2Top     Si10163   0.493   1.604  10.275
     2Top      O10164   0.200   4.545   9.635
@@ -10174,7 +10174,7 @@ GROningen MAchine for Chemical Simulation
     2Top     Si10172   3.344   3.778   9.456
     2Top     Si10173   4.710   3.421   9.464
     2Top      O10174   3.681   0.490  10.497
-    2Top     OS10175   3.852   2.064   9.351
+    2Top  O_Sur10175   3.852   2.064   9.351
     2Top     Si10176   3.242   2.136   9.559
     2Top      O10177   1.301   0.837  10.332
     2Top      O10178   3.152   0.957  10.391
@@ -10186,7 +10186,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O10184   0.148   0.005   9.583
     2Top      O10185   4.096   4.171  10.090
     2Top      O10186   2.666   1.554   9.466
-    2Top     OS10187   0.333   3.329   9.424
+    2Top  O_Sur10187   0.333   3.329   9.424
     2Top      O10188   1.177   1.903   9.555
     2Top      O10189   0.131   1.654   9.511
     2Top      O10190   4.720   3.125   9.714
@@ -10198,7 +10198,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O10196   3.698   3.391   9.533
     2Top      O10197   4.887   4.958   9.579
     2Top     Si10198   2.678   3.697   9.682
-    2Top     OS10199   4.707   1.800   9.377
+    2Top  O_Sur10199   4.707   1.800   9.377
     2Top      O10200   2.501   3.726  10.125
     2Top      O10201   3.511   1.923  10.262
     2Top      O10202   2.918   3.053  10.622
@@ -10215,7 +10215,7 @@ GROningen MAchine for Chemical Simulation
     2Top      O10213   4.104   3.639  10.128
     2Top      O10214   4.964   3.617   9.674
     2Top      O10215   4.274   1.722   9.789
-    2Top     OS10216   0.880   3.855   9.356
+    2Top  O_Sur10216   0.880   3.855   9.356
     2Top      O10217   0.174   4.943   9.975
     2Top     Si10218   0.375   0.724   9.706
     2Top     Si10219   4.907   2.245   9.592
