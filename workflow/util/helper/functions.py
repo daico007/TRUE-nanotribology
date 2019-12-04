@@ -1,6 +1,9 @@
 import flow
 import numpy as np
 import scipy
+import os
+import pathlib
+
 from foyer import Forcefield
 from mbuild.formats.lammpsdata import write_lammpsdata
 from mbuild.lib.atoms import H
@@ -89,7 +92,13 @@ def system_builder(seed, chainlength=17, backbone=Alkylsilane, terminal_group='m
     -------------------------------------------------------------------
     """
 
-    forcefield_filepath = "../util/forcefield/oplsaa.xml"
+    if os.path.isfile("../util/forcefield/oplsaa.xml"):
+        forcefield_filepath = "../util/forcefield/oplsaa.xml"
+    elif os.path.isfile("../../util/forcefield/oplsaa.xml"):
+        forcefield_filepat = "../../util/forcefield/oplsaa.xml")
+    else:
+        raise Exception('Forcefield file is not found')    
+
 
     dual_monolayer.save("init.gro", residues=["Top", "Bottom"], overwrite=True)
 
