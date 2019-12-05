@@ -95,7 +95,7 @@ def system_builder(seed, chainlength=17, backbone=Alkylsilane, terminal_group='m
     if os.path.isfile("../util/forcefield/oplsaa.xml"):
         forcefield_filepath = "../util/forcefield/oplsaa.xml"
     elif os.path.isfile("../../util/forcefield/oplsaa.xml"):
-        forcefield_filepat = "../../util/forcefield/oplsaa.xml")
+        forcefield_filepat = "../../util/forcefield/oplsaa.xml"
     else:
         raise Exception('Forcefield file is not found')    
 
