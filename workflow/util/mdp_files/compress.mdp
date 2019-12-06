@@ -44,6 +44,7 @@ pull-print-components  = yes
 
 pull-coord1-type      = constant-force
 pull-coord1-geometry  = direction-periodic
+pull-coord1-dim	      = N N Y
 pull-coord1-vec       = 0.0 0.0 -1.0
 pull-coord1-groups    = 2 1
 pull-coord1-k         = 3125

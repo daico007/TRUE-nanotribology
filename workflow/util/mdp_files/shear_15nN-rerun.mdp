@@ -47,6 +47,7 @@ pull-print-components  = yes
 
 pull-coord1-type      = umbrella
 pull-coord1-geometry  = direction-periodic
+pull-coord1-dim	      = Y N N
 pull-coord1-vec       = 1.0 0.0 0.0 ; shear force direction vector
 pull-coord1-groups    = 0 2
 pull-coord1-rate      = 0.01 ; nm/ps
@@ -55,6 +56,7 @@ pull-coord1-start     = yes
 
 pull-coord2-type      = constant-force
 pull-coord2-geometry  = direction-periodic
+pull-coord2-dim       = N N Y
 pull-coord2-vec       = 0.0 0.0 -1.0 ; normal force vector
 pull-coord2-groups    = 2 1
 pull-coord2-k         = 9375  ; normal force
