@@ -7,7 +7,7 @@ import flow
 from flow import FlowProject, environments
 
 from util.helper.functions import system_builder
-
+from util.helper.recipes import Alkylsilane
 class Project(FlowProject):
     pass
     
@@ -36,9 +36,13 @@ def initialize_system(job):
     # change into job directoryA
     _switch_dir(job)
     logging.info("at dir: {}".format(job.ws))
-    return  system_builder(seed=seed, chainlenght=chainlength, backbone=backbone,
+    return  system_builder(seed=seed, chainlength=chainlength, backbone=backbone,
                            terminal_group=terminal_group, num_chains=num_chains)
 
 def _switch_dir(job):
     p = pathlib.Path(job.workspace())
     os.chdir(str(p.absolute()))
+
+
+if __name__ == "__main__":
+    Project().main()

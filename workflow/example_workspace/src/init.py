@@ -38,7 +38,7 @@ def main(args, random_seed):
                               # Terminal group
                                 terminal_group = 'methyl',
                               # Number of monolayer chains
-                                n = 100,
+                                n = 50,
                               # monolayer pattern type
                                 pattern_type = 'random',
                               # Random seed
