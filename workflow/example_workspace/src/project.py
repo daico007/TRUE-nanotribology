@@ -4,16 +4,15 @@ import os
 import pathlib
 
 import flow
-
 from flow import FlowProject, environments
 
-class SimpleProject(flow.environment.DefaultTorqueEnvironment):
-    template = "rahman.sh"
+from util.helper.functions import system_builder
 
 class Project(FlowProject):
     pass
     
 @Project.operation
+@flow.directives()
 @Project.post.isfile("init.top")
 @Project.post.isfile("init.gro")
 @Project.post.isfile("init.lammps")
@@ -37,8 +36,8 @@ def initialize_system(job):
     # change into job directoryA
     _switch_dir(job)
     logging.info("at dir: {}".format(job.ws))
-    system_builder(seed=seed, chainlenght=chainlength, backbone=backbone,
-                  terminal_group=terminal_group, num_chains=num_chains)
+    return  system_builder(seed=seed, chainlenght=chainlength, backbone=backbone,
+                           terminal_group=terminal_group, num_chains=num_chains)
 
 def _switch_dir(job):
     p = pathlib.Path(job.workspace())

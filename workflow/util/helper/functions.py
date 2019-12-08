@@ -122,5 +122,5 @@ def system_builder(seed, chainlength=17, backbone=Alkylsilane, terminal_group='m
         terminal_group=terminal_group,
         freeze_thickness=0.5,
     )
-    write_monolayer_ndx(rigid_groups=index_groups, filename="../example_simulation/init.ndx")
+    write_monolayer_ndx(rigid_groups=index_groups, filename="init.ndx")
     return dual_monolayer
