@@ -5,4 +5,4 @@ signac
 signac-flow
 mdanalysis
 lammps
-gromacs
+gromacs=2018.4
