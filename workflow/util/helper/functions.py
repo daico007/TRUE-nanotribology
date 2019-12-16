@@ -86,9 +86,7 @@ def system_builder(seed, chainlength=17, backbone=Alkylsilane, terminal_group='m
     - Save to .GRO, .TOP, and .LAMMPS formats
     - Atom-type the system using Foyer, with parameters from the OPLS
     force field obtained from GROMACS. Parameters are located in a
-    Foyer XML file in the `atools` git repo, with references provided
-    as well as notes where parameters have been added or altered to
-    reflect the literature.
+    Foyer XML file in  "../util/forcefield/oplsaa.xml".
     -------------------------------------------------------------------
     """
 
