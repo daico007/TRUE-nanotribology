@@ -6,3 +6,5 @@ signac-flow
 mdanalysis
 lammps
 gromacs=2018.4
+numpy
+matplotlib
