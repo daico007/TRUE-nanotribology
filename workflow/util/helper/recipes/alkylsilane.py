@@ -1,5 +1,5 @@
 import mbuild as mb
-from mbuild.examples.alkane.alkane import Alkane
+from .alkane import Alkane
 from mbuild.lib.moieties import Silane
 from util.helper.recipes.one_port import Methyl
 class Alkylsilane(mb.Compound):
