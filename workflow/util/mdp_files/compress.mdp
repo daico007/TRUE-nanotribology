@@ -48,3 +48,6 @@ pull-coord1-dim	      = N N Y
 pull-coord1-vec       = 0.0 0.0 -1.0
 pull-coord1-groups    = 2 1
 pull-coord1-k         = 3125
+
+; Random seed
+ld-seed = -1014069825

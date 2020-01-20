@@ -37,3 +37,6 @@ ref_t           = 298.15
 tau_t           = 1.0
 
 pcoupl          = no
+
+; Random seed
+ld-seed = 1439963876 

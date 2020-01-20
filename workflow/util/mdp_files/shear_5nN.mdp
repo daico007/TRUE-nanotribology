@@ -60,3 +60,6 @@ pull-coord2-dim       = N N Y
 pull-coord2-vec       = 0.0 0.0 -1.0 ; normal force vector
 pull-coord2-groups    = 2 1
 pull-coord2-k         = 3125  ; normal force
+
+; Random seed
+ld-seed = -1237767594
