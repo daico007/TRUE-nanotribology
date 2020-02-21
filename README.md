@@ -4,7 +4,8 @@
 A TRUE simulation is defined as a **T**ransparent, **R**eproducible, **U**sable by others, and **E**xtensible. The concept was born to encourage researchers to set up project in a more standardized fashion, with the goal to improve the reprodicibility and scalability, as well as lower the barrier for new researcher entering any given project. Currently, there is no strict standard to build a TRUE simulation project, but there are a few principles that could be demonstrated through different examples workflow. Below is an example of a TRUE nanotribology screening project, which shows how researcher at Vanderbilt University have successfully inherited and significantly scaled up a TRUE project. 
 
 ### Original Project
-The original project was developed by Dr. Andrew Z. Summers to study the tribological properties when two self-assembled monolayer (SAM) coated surface are sheared against each other. The project focus to study the effects induced by monolayer density, backbone chain length, and some terminal groups on the tribological properties of these surfaces, and have spanned approximately 820 state points.
+The original project was developed by Dr. Andrew Z. Summers to study the tribological properties when two monolayer coated surfaces are sheared against each other. The project focus to study the effects induced by monolayer density, backbone chain length, and some terminal groups on the tribological properties of these surfaces, and have spanned approximately 820 state points.
+This work has been published in the Journal of Chemical Theory and Computational (https://pubs.acs.org/doi/10.1021/acs.jctc.9b01183).
 
 The original project workflow could be found in several github repository hosted by the author Andrew Z. Summers:
 - https://github.com/summeraz/monolayer_screening
