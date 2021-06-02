@@ -4,7 +4,11 @@ import scipy
 import os
 import pathlib
 
+import ele
+from ele import element_from_symbol
+
 from foyer import Forcefield
+import mbuild as mb
 from mbuild.formats.lammpsdata import write_lammpsdata
 from mbuild.lib.atoms import H
 from util.helper.fileio import write_monolayer_ndx, read_ndx
@@ -78,9 +82,11 @@ def system_builder(seed, chainlength=17, backbone=Alkylsilane, terminal_group='m
     Make sure box is elongated in z to be pseudo-2D periodic
     --------------------------------------------------------
     """
-    box = dual_monolayer.boundingbox
-    dual_monolayer.periodicity += np.array([0, 0, 5.0 * box.lengths[2]])
-
+    box = mb.Box(lengths = [dual_monolayer.box.lengths[0],
+                            dual_monolayer.box.lengths[1],
+                            dual_monolayer.box.lengths[2] * 5.0])
+    dual_monolayer.box = box
+    #dual_monolayer.periodicity += np.array([0, 0, 5.0 * box.lengths[2]])
     """
     -------------------------------------------------------------------
     - Save to .GRO, .TOP, and .LAMMPS formats
@@ -100,6 +106,13 @@ def system_builder(seed, chainlength=17, backbone=Alkylsilane, terminal_group='m
 
     dual_monolayer.save("init.gro", residues=["Top", "Bottom"], overwrite=True)
 
+    for particle in list(dual_monolayer.particles()):
+        if 'Si' in particle.name[:2]:
+            particle.element = element_from_symbol('Si')
+        elif particle.name[0] == 'O':
+            particle.element = element_from_symbol('O')
+        else:
+            particle.element = element_from_symbol(particle.name)
     structure = dual_monolayer.to_parmed(
         box=None, residues=["Top", "Bottom"]
         )

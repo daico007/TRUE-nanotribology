@@ -21,7 +21,7 @@ class SilicaInterface(SilicaInterfaceCarve):
         multiples of this number.
     tile_y : int, optional, default=1
         Number of times to replicate the surface in the y dimension. The default
-        length in the y dimension is 5nm, so increasing tile_y will lead to higher
+        length in the y dimension is 5nm, so increasing titfle_y will lead to higher
         multiples of this number.
     thickness : float, optional, default=1.0
         Desired thickness of the surface (in nm; not including oxygen layers on the
@@ -32,8 +32,8 @@ class SilicaInterface(SilicaInterfaceCarve):
     def __init__(self, tile_x=1, tile_y=1, thickness=1.0, seed=12345):
         thickness = float(thickness)
         try:
-            from mbuild.lib.bulk_materials import AmorphousSilica
-            super(SilicaInterface, self).__init__(bulk_silica=AmorphousSilica(),
+            from mbuild.lib.bulk_materials import AmorphousSilicaBulk
+            super(SilicaInterface, self).__init__(bulk_silica=AmorphousSilicaBulk(),
                 tile_x=tile_x, tile_y=tile_y, thickness=thickness, seed=seed)
         except:
             from mbuild.lib.bulk_materials import AmorphousSilicaBulk

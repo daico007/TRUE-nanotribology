@@ -76,9 +76,12 @@ class SilicaInterfaceCarve(mb.Compound):
         tile_z = int(math.ceil((thickness + 2*O_buffer) / bulk_silica.periodicity[2]))
         bulk = mb.lib.recipes.TiledCompound(bulk_silica, n_tiles=(tile_x, tile_y, tile_z))
 
+        """
         interface = mb.Compound(periodicity=(bulk.periodicity[0],
                                              bulk.periodicity[1],
                                              0.0))
+        """
+        interface = mb.Compound(periodicity=(True, True, False))
         for i, particle in enumerate(bulk.particles()):
             if ((particle.name == 'Si' and O_buffer < particle.pos[2] < (thickness + O_buffer)) or 
                     (particle.name == 'O' and particle.pos[2] < (thickness + 2*O_buffer))):
@@ -105,7 +108,7 @@ class SilicaInterfaceCarve(mb.Compound):
                17, 24683-24695
         """
 
-        area = self.periodicity[0] * self.periodicity[1]
+        area = self.box.lengths[0] * self.box.lengths[1]
         target = int(oh_density * area)
 
         surface_site_buffer = self._surface_site_buffer
@@ -142,7 +145,7 @@ class SilicaInterfaceCarve(mb.Compound):
     def _identify_surface_sites(self, thickness):
         """Label surface sites and add ports above them. """
         surface_site_buffer = self._surface_site_buffer
-        for atom in self.particles():
+        for atom in list(self.particles()):
             if len(self.bond_graph.neighbors(atom)) == 1:
                 if atom.name == 'O' and atom.pos[2] > surface_site_buffer:
                     atom.name = 'O_Surface'

@@ -5,9 +5,9 @@ import numpy as np
 
 def generate_index_groups(system, terminal_group, freeze_thickness=0.5):
     backbone_set = {'Alkylsilane'}
-    bounding_box = system.boundingbox
-    bot_of_box = bounding_box.mins[2]
-    top_of_box = bounding_box.maxs[2]
+    bounding_box = system.get_boundingbox()
+    bot_of_box = 0
+    top_of_box = bounding_box.lengths[2]
     middle = (bot_of_box + top_of_box) / 2
 
     bottom_frozen = []
