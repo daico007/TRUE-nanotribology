@@ -76,11 +76,6 @@ class SilicaInterfaceCarve(mb.Compound):
         tile_z = int(math.ceil((thickness + 2*O_buffer) / bulk_silica.periodicity[2]))
         bulk = mb.lib.recipes.TiledCompound(bulk_silica, n_tiles=(tile_x, tile_y, tile_z))
 
-        """
-        interface = mb.Compound(periodicity=(bulk.periodicity[0],
-                                             bulk.periodicity[1],
-                                             0.0))
-        """
         interface = mb.Compound(periodicity=(True, True, False))
         for i, particle in enumerate(bulk.particles()):
             if ((particle.name == 'Si' and O_buffer < particle.pos[2] < (thickness + O_buffer)) or 
@@ -88,6 +83,8 @@ class SilicaInterfaceCarve(mb.Compound):
                 interface_particle = mb.Compound(name=particle.name, pos=particle.pos)
                 interface.add(interface_particle, particle.name + "_{}".format(i))
         self.add(interface)
+        self.box = bulk_silica.box
+        self.periodicity = (True, True, False)
 
     def _strip_stray_atoms(self):
         """Remove stray atoms and surface pieces. """
